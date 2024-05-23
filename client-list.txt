@@ -1,0 +1,1686 @@
+2017-10-20 18:36:51|Hirschmann Automation and Control GmbH|cdelahaye|customer
+2017-10-23 10:53:59|MAX-G-MOBILE SL|cdelahaye|customer
+2017-10-27 10:29:30|X Development LLC (Alphabet Inc)||customer
+2017-11-07 15:05:01|KSG Company Limited||customer
+2017-11-07 15:07:14|Pivotone Communication Technologies||customer
+2017-11-08 18:29:12|PROTEI EUROPA OÜ||customer
+2017-11-13 13:54:34|Technolution B.V.||customer
+2017-11-14 13:29:05|Renault||customer
+2017-11-14 15:09:15|REDINGTON DISTRIBUTION PTE LIMITED|cdelahaye|customer
+2017-11-21 09:31:36|JRDCOM (TCL)|nnikaein|customer
+2017-11-30 11:53:06|POPTA ENTERPRISE CO., LIMITED|cdelahaye|customer
+2017-12-04 15:49:27|Comparex AG||customer
+2017-12-05 16:56:30|AIRSPAN NETWORKS LTD||customer
+2017-12-06 16:06:10|Aalborg University||customer
+2017-12-06 16:28:45|Endress+Hauser Flowtec AG||customer
+2017-12-06 19:03:40|CableFree|epuig|customer
+2017-12-07 10:12:49|Thales UK Ltd|cdelahaye|customer
+2017-12-07 14:22:56|BCM Electronics Corporation Sdn Bhd||customer
+2017-12-08 17:16:08|Bristih Telecommunications PLC||customer
+2017-12-14 13:52:55|Sierra Wireless Technology (Shenzhen) Ltd||customer
+2017-12-18 15:20:36|Aerospace Corporation ||prospect
+2017-12-18 15:22:29|Comparex||prospect
+2017-12-18 15:25:57|AkorIoT||prospect
+2017-12-18 15:31:39|Alstom Ferroviaria SpA||prospect
+2017-12-18 15:39:45|Altaeros Energies||prospect
+2017-12-18 15:41:41|Altran Connected Solutions||prospect
+2017-12-18 16:06:25|Aminbros||prospect
+2017-12-18 16:08:06|Accelerated Media Technologies, Inc.||prospect
+2017-12-18 17:39:34|Athonet|cdelahaye|prospect
+2017-12-19 13:23:00|Future Intelligence Ltd||customer
+2017-12-19 15:35:24|Aeris||prospect
+2017-12-19 15:38:46|Black River Systems||prospect
+2017-12-19 15:39:47|Bloomberg LP||prospect
+2017-12-19 15:44:34|Center for Research and Technologies Hellas||prospect
+2017-12-19 15:48:12|CORDON ELECTRONICS||prospect
+2017-12-19 15:53:58|Darkmatter LLC ||prospect
+2017-12-19 15:57:36|D-Link|cdelahaye|prospect
+2017-12-19 16:05:23|Entel UK Limited |cdelahaye|prospect
+2018-01-02 16:26:03|Nemergent Solutions SL|cdelahaye|customer
+2018-01-04 16:31:00|ABIT Corporation|cdelahaye|prospect
+2018-01-04 16:33:53|Allterco Robotics|cdelahaye|prospect
+2018-01-04 17:02:18|CSRA|cdelahaye|prospect
+2018-01-04 17:06:40|Entropia |cdelahaye|prospect
+2018-01-04 17:09:37|Ericsson AB|cdelahaye|customer
+2018-01-04 17:14:33|Gateway Ventures International |cdelahaye|prospect
+2018-01-04 17:17:17|GD STS|cdelahaye|prospect
+2018-01-04 17:21:10|Genus Power Infrastructures Limited|cdelahaye|prospect
+2018-01-04 17:23:57|GoldenSpear|cdelahaye|prospect
+2018-01-04 17:24:58|Gridmax|cdelahaye|prospect
+2018-01-04 17:25:52|Hacettepe University|cdelahaye|prospect
+2018-01-04 17:26:56|Harris Corporation|cdelahaye|prospect
+2018-01-15 11:04:44|Xirgo Technologies, LLC|cdelahaye|customer
+2018-01-15 14:31:35|Sagemcom Broadband SAS||customer
+2018-01-15 15:51:09|Aalto University||prospect
+2018-01-15 17:12:39|Acerbi Power S.r.l.||prospect
+2018-01-15 17:14:28|AMN (Africa Mobile Networks)||prospect
+2018-01-15 17:15:22|Analog Devices ||prospect
+2018-01-15 17:16:10|APD||prospect
+2018-01-15 17:18:02|Das Coisas||prospect
+2018-01-15 17:19:15|ES "Depginli Adim"||prospect
+2018-01-15 17:20:38|Electric Imp, Inc ||prospect
+2018-01-15 17:22:01|HYYC ltd.(Hua Yun Yuan Chuang)||prospect
+2018-01-15 17:24:52|IEVA||prospect
+2018-01-15 17:27:15|Indian Institute of Technology (IIT Delhi)||prospect
+2018-01-15 17:29:51|Information Network Security Agency (INSA Ethiopia) ||prospect
+2018-01-15 17:31:13|Inner Mongolia University ||prospect
+2018-01-18 13:20:00|Airspan SWIT||customer
+2018-01-18 17:09:48|Commissariat à l’énergie atomique (CEA)||prospect
+2018-01-18 17:17:07|ENEA|cdelahaye|prospect
+2018-01-18 17:18:01|Qosmos |cdelahaye|prospect
+2018-01-18 17:21:41|Huawei Technologies (UK) Co., Ltd |cdelahaye|prospect
+2018-01-18 17:27:21|Idea cellular|cdelahaye|prospect
+2018-01-18 17:40:27|Keysight ISG|cdelahaye|customer
+2018-01-18 17:42:16|Kix Internet Inc.|cdelahaye|customer
+2018-01-18 17:44:37|L&T Technology Services|cdelahaye|prospect
+2018-01-29 10:48:55|Airspan Networks (Poland) Sp. z o.o.||customer
+2018-02-06 14:18:43|Alexandria University||prospect
+2018-02-06 14:21:47|Apator S.A. ||prospect
+2018-02-06 14:24:29|Barracuda Networks||prospect
+2018-02-06 14:25:34|Blacom||prospect
+2018-02-06 14:30:56|CloudBEAR||prospect
+2018-02-06 14:36:46|ESM telecommunications ||prospect
+2018-02-06 14:42:52|Fraunhofer FOKUS||prospect
+2018-02-09 12:48:41|McLaren Applied Technologies||prospect
+2018-02-09 17:00:57|TeraSys GmbH||customer
+2018-02-13 10:04:05|National Instruments US|nnikaein|customer
+2018-02-19 16:36:41|Axon||prospect
+2018-02-19 16:40:03|Diehl Metering||prospect
+2018-02-19 16:42:24|Hoyos Consulting LLC||prospect
+2018-02-19 16:44:35|Intel Technologies||prospect
+2018-02-19 16:47:32|İstlink ||prospect
+2018-02-19 16:48:16|IT Partners Telco Sp. z o.o. ||prospect
+2018-02-19 16:50:22|ITD Iberia ||prospect
+2018-02-21 16:10:06|Dynetics||prospect
+2018-02-21 16:13:26|Karousel, LLC||prospect
+2018-02-21 16:18:44|laguna movil||prospect
+2018-02-21 16:22:48|lufburrow inc. ||prospect
+2018-02-21 16:29:35|MaxEye Technologies Pvt. Ltd.|cdelahaye|prospect
+2018-02-21 16:30:26|MAXSiA, LLC |cdelahaye|prospect
+2018-02-22 14:10:07|ASM Technologies Limited||prospect
+2018-02-22 14:13:08|QBS Sourcing||prospect
+2018-02-22 14:14:43|Medicalgorithmics ||prospect
+2018-02-22 14:16:51|MEN Mikro Elektronik GmbH ||prospect
+2018-02-22 14:18:37|MEN Mikro Elektronik||prospect
+2018-02-22 14:40:26|MiX Telematics Internationakl (Pty.) Ltd. ||prospect
+2018-02-22 14:43:54|Miyoshi optoelectronics pte ltd ||prospect
+2018-02-22 15:11:39|MWDN Ltd. ||prospect
+2018-02-22 15:15:39|Nash Technologies GmbH||prospect
+2018-02-22 15:20:01|NCC Group Plc ||prospect
+2018-02-22 15:21:01|Necxgeneration Computer Svcs ||prospect
+2018-02-22 15:32:34|Netaş Telekomünikasyon A.Ş. ||prospect
+2018-02-22 15:34:31|networxinmotion||prospect
+2018-02-22 15:35:46|New Wave Commnunication ||prospect
+2018-02-22 15:36:59|Nimbelink ||prospect
+2018-02-22 15:38:04|Northwest Tv||prospect
+2018-02-22 15:42:12|Octasic||prospect
+2018-02-22 15:44:23|N/A ||prospect
+2018-02-22 15:45:16|Omnispace.com ||prospect
+2018-02-22 15:51:48|Open University of Cyprus||prospect
+2018-02-22 15:59:25|OpsWare, LLC ||prospect
+2018-02-22 16:02:36|Outernet||prospect
+2018-02-22 16:05:51|Paratus ||prospect
+2018-02-22 16:06:34|Pdicta Corp ||prospect
+2018-02-22 16:07:29|Penn State University ||prospect
+2018-02-22 16:09:13|Polytechnique Montreal ||prospect
+2018-02-22 16:10:21|Prysmian Group ||prospect
+2018-02-22 16:19:45|Quanta Computer ||prospect
+2018-02-22 16:21:14|Quartix Ltd ||prospect
+2018-02-22 16:22:27|Radisys||prospect
+2018-02-22 16:23:12|Rafaelmicro||prospect
+2018-02-22 16:24:21|Rapidev DMCC||prospect
+2018-02-22 16:32:19|Resonous Technologies Pvt Ltd||prospect
+2018-02-22 16:33:38|Royal Military Academy||prospect
+2018-02-22 16:35:14|SafeCell Technologies, Inc||prospect
+2018-02-22 16:38:51|Santo Tomás University ||prospect
+2018-02-22 16:39:56|Secure Data Solutions B.V. ||prospect
+2018-02-22 16:41:22|Security OnTop Limited ||prospect
+2018-02-22 16:41:56|Sensor-Technik Wiedemann GmbH ||prospect
+2018-02-22 16:43:27|ShotSpotter ||prospect
+2018-02-22 16:44:26|sigma designs ||prospect
+2018-02-22 16:45:23|Signalscape, Inc. ||prospect
+2018-02-22 16:46:23|Simnovus||prospect
+2018-02-22 17:27:57|Sisteer France||prospect
+2018-02-22 17:29:10|Skylark Wireless LLC ||prospect
+2018-02-22 17:31:31|Smartrent ||prospect
+2018-02-22 17:32:41|Somerica LP ||prospect
+2018-02-22 17:33:31|Source Technologi ||prospect
+2018-02-22 17:34:10|SparkNet International Corporation||prospect
+2018-02-22 17:36:19|Swissphone Wireless AG ||prospect
+2018-02-22 17:37:42|Syracuse University ||prospect
+2018-02-22 17:38:20|System Innovation Group ||prospect
+2018-02-23 09:59:55|ALTAIR Semiconductor Finland Oy|cdelahaye|customer
+2018-02-23 11:25:21|Silklore Pty Ltd T/A Magna Systems & Engineering ||prospect
+2018-02-23 15:20:34|Sierra Wireless Inc.||customer
+2018-02-26 15:39:41|Fraunhofer IIS |cdelahaye|prospect
+2018-02-27 18:44:12|NTT Advanced Technology ||prospect
+2018-02-27 19:14:35|TechInsights Inc.||prospect
+2018-02-27 19:20:49|Telefocal Asia Pte Ltd ||prospect
+2018-02-27 19:21:36|Telekom Research & Development Sdn. Bhd. ||prospect
+2018-02-27 19:23:21|TELLINKSTAR ||prospect
+2018-02-27 19:26:31|Telus mobility ||prospect
+2018-02-27 19:27:54|Tempered Networks Inc ||prospect
+2018-02-28 15:25:08|Texas A&M University ||prospect
+2018-02-28 15:45:30|Thales Alenia Space||prospect
+2018-02-28 15:55:32|Thorcom Systems Ltd ||prospect
+2018-02-28 15:56:54|TOWERCAST||prospect
+2018-02-28 16:00:18|Technische Universität München (TUM)||prospect
+2018-02-28 16:04:38|u-blox||prospect
+2018-02-28 16:13:19|UBT-University for Business and Technology||prospect
+2018-02-28 16:14:07|ULAK Haberleşme||prospect
+2018-02-28 16:15:45|Unifique ||prospect
+2018-02-28 16:23:47|Universidad Autonoma de Coahuila |cdelahaye|prospect
+2018-02-28 16:25:43|Universidad de Chile |cdelahaye|prospect
+2018-02-28 16:27:24|Universidad Sergio Arboleda |cdelahaye|prospect
+2018-02-28 16:38:19|Universiti Teknologi Malaysia|cdelahaye|prospect
+2018-02-28 16:47:25|University of Glasgow |cdelahaye|prospect
+2018-02-28 16:48:45|University of Granada |cdelahaye|prospect
+2018-02-28 16:50:38|University of Stuttgart |cdelahaye|prospect
+2018-02-28 17:17:42|University of Tehran|cdelahaye|prospect
+2018-02-28 17:19:41|The University of Tokyo |cdelahaye|prospect
+2018-02-28 17:20:35|University of Worcester |cdelahaye|prospect
+2018-02-28 17:22:28|Vanu Inc. |cdelahaye|prospect
+2018-02-28 17:24:15|Veldissimo Telecom|cdelahaye|prospect
+2018-02-28 17:25:44|Velocity Communications LTE |cdelahaye|prospect
+2018-02-28 17:27:45|Venabex Pty Ltd |cdelahaye|prospect
+2018-02-28 17:28:55|Viavi Solutions |cdelahaye|prospect
+2018-02-28 17:31:34|Vigilant|cdelahaye|prospect
+2018-02-28 17:34:39|Viveris Technologies|cdelahaye|prospect
+2018-02-28 17:39:05|Vobal Technologies |cdelahaye|prospect
+2018-02-28 17:40:35|Weptech elektronik GmbH |cdelahaye|prospect
+2018-02-28 17:42:02|Wisetech Global |cdelahaye|prospect
+2018-02-28 17:42:48|World Delta Limited |cdelahaye|prospect
+2018-02-28 17:44:36|WuHan QianXiao Elecronic Technology CO.,LTD |cdelahaye|prospect
+2018-02-28 17:46:30|Wuhan zhwei Electronic Technology Co.Ltd|cdelahaye|prospect
+2018-02-28 17:47:54|xG Technology|cdelahaye|prospect
+2018-02-28 17:50:31|Yaana Technologies|cdelahaye|prospect
+2018-02-28 17:51:37|Yerevan University|cdelahaye|prospect
+2018-02-28 17:53:58|Zhejiang University |cdelahaye|prospect
+2018-02-28 17:54:41|ZIN Technologies|cdelahaye|prospect
+2018-02-28 17:56:12|ZTE GT|cdelahaye|prospect
+2018-02-28 17:57:42|Zurich University of Applied Sciences |cdelahaye|prospect
+2018-03-02 15:31:37|Softcat plc|cdelahaye|prospect
+2018-03-12 10:41:27|SAGEMCOM SOFTWARE & TECHNOLOGIES|cdelahaye|customer
+2018-03-14 15:15:20|CableLabs|cdelahaye|customer
+2018-03-19 17:58:09|Puloli, Inc.||customer
+2018-03-20 11:20:27|Globaltel||customer
+2018-03-22 17:20:38|AVSystem |cdelahaye|prospect
+2018-03-22 17:23:27|CETECOM Inc. |cdelahaye|prospect
+2018-03-22 17:28:22|Esju oy |cdelahaye|prospect
+2018-03-22 17:29:07|Fibranet, S.A.|cdelahaye|prospect
+2018-03-22 17:31:52|Hewlett Packard |cdelahaye|prospect
+2018-03-23 17:33:37|m3connect ||prospect
+2018-03-23 17:44:49|Mega Secure||prospect
+2018-03-23 17:47:11|Neovigie ||prospect
+2018-03-23 17:49:13|Plintron||prospect
+2018-03-23 17:53:37|Squalio Group ||prospect
+2018-03-23 17:57:02|Ss. Cyril and Methodius University ||prospect
+2018-03-23 17:59:04|Telenor Digital AS ||prospect
+2018-03-23 18:03:11|TUBITAK UZAY Space Research Institute||prospect
+2018-03-23 18:04:11|Vinci Autoroutes ||prospect
+2018-03-26 08:28:50|THALES AVS France SAS||customer
+2018-03-29 15:58:58|Paralink Networks Shanghai Inc.|cdelahaye|customer
+2018-03-30 10:25:40|Quectel France|cdelahaye|customer
+2018-04-09 16:58:30|Nokia Tech||customer
+2018-04-12 10:54:23|Sierra Wireless US|nnikaein|customer
+2018-04-12 15:36:13|Sagemcom Energy & Telecom SAS||customer
+2018-04-13 14:49:51|THALES RESEARCH & TECHNOLOGY||customer
+2018-04-16 14:48:38|Bhumi Entech Equipments Pvt. Ltd.|cdelahaye|prospect
+2018-04-18 14:17:38|Altair semi conductors Israel|marouan.bc|customer
+2018-04-20 11:54:23|Icom France SAS|cdelahaye|customer
+2018-04-23 15:57:46|Raytheon Intelligence & Information Systems||customer
+2018-04-24 13:57:25|Berlin Institute for Software Defined Networks (BISDN)|cdelahaye|prospect
+2018-04-24 14:11:11|Keysight Technologies|cdelahaye|prospect
+2018-04-24 14:29:04|Linagora|cdelahaye|prospect
+2018-04-24 14:39:16|Nexa Technologies|cdelahaye|prospect
+2018-04-24 14:41:18|Nordic Telecom|cdelahaye|prospect
+2018-04-24 14:51:22|Red Hat, Inc.|cdelahaye|prospect
+2018-04-24 14:57:23|Ubiik|cdelahaye|prospect
+2018-04-24 14:59:39|Unmanned Life|cdelahaye|prospect
+2018-04-24 15:00:46|Zeetta Networks|cdelahaye|prospect
+2018-04-24 15:17:54|Artiza Networks, Inc. Finland|cdelahaye|prospect
+2018-04-24 16:08:40|DGE/SEN|cdelahaye|prospect
+2018-04-24 16:47:01|Piva Software|cdelahaye|prospect
+2018-04-24 16:50:01|PrismeSoft|cdelahaye|prospect
+2018-04-26 11:02:44|Steve KO|omarie|prospect
+2018-04-30 16:36:04|Cambium Networks Ltd.||prospect
+2018-05-02 15:19:51|Tata Communications|cdelahaye|prospect
+2018-05-21 14:49:32|ACKSYS ||prospect
+2018-05-21 15:05:24|Arukona ||prospect
+2018-05-21 15:13:10|BAVERIANVINE LTD|cdelahaye|prospect
+2018-05-21 15:17:06|BMB Group |cdelahaye|prospect
+2018-05-21 15:19:20|Bright Box |cdelahaye|prospect
+2018-05-21 15:28:33|Commscope Networks India Pvt. Ltd. |cdelahaye|prospect
+2018-05-21 15:32:32|DCmobility |cdelahaye|prospect
+2018-05-21 15:33:30|DeepSig Inc. |cdelahaye|prospect
+2018-05-21 15:36:04|DevTools |cdelahaye|prospect
+2018-05-21 15:54:21|ESCRYPT GmbH |cdelahaye|prospect
+2018-05-21 15:58:33|Eurotech Ltd|cdelahaye|prospect
+2018-05-21 16:09:28|Greenpacket |cdelahaye|prospect
+2018-05-21 16:50:00|IITP RAS |cdelahaye|prospect
+2018-05-21 16:53:55|Inatel |cdelahaye|prospect
+2018-05-22 17:19:33|Intis|cdelahaye|prospect
+2018-05-22 17:26:01|Pasteje|cdelahaye|prospect
+2018-05-22 17:28:19|Jabil Circuit |cdelahaye|prospect
+2018-05-22 17:29:34|Jannatec Technologies |cdelahaye|prospect
+2018-05-22 17:57:59|KEYW |cdelahaye|prospect
+2018-05-22 17:59:12|King Saud University|cdelahaye|customer
+2018-05-22 18:03:11|LOGON Software India Pvt. Ltd |cdelahaye|prospect
+2018-05-22 18:04:00|Rabita Software |cdelahaye|prospect
+2018-05-22 18:06:46|Malawi Telecommunications Limited|cdelahaye|prospect
+2018-05-22 18:08:39|Michigan State University |cdelahaye|prospect
+2018-05-22 18:13:52|National Instruments South East Asia |cdelahaye|prospect
+2018-05-22 18:25:01|Nimbelink|cdelahaye|prospect
+2018-05-22 18:28:47|Nokia UK|cdelahaye|prospect
+2018-05-22 18:30:16|Novas Lite Tech Nigeria Co. |cdelahaye|prospect
+2018-05-22 18:35:09|OriginGPS |cdelahaye|prospect
+2018-05-23 15:21:44|Nintendo Technology Development ||prospect
+2018-05-23 15:33:47|Positioning Universal|cdelahaye|prospect
+2018-05-23 15:35:07|Parsa Sharif Research Institute|cdelahaye|prospect
+2018-05-23 15:35:48|Procept|cdelahaye|prospect
+2018-05-23 17:57:27|Qualcomm, Inc.||prospect
+2018-05-25 11:12:49|SEQUANS Communications (Korea)|cdelahaye|prospect
+2018-05-25 11:14:31|Aprotech|cdelahaye|prospect
+2018-05-25 11:17:28|Open Broadcast Systems|cdelahaye|prospect
+2018-05-25 11:19:44|Dali Wireless (Canada), Inc.|cdelahaye|prospect
+2018-05-25 11:25:50|Redtail Telematics |cdelahaye|prospect
+2018-05-25 11:28:02|RFcreations |cdelahaye|prospect
+2018-05-25 11:29:34|Rhotec|cdelahaye|prospect
+2018-05-25 11:32:47|Schneider Electric |cdelahaye|prospect
+2018-05-25 11:36:46|Securin Technology |cdelahaye|prospect
+2018-05-25 11:37:53|SEE SR|cdelahaye|prospect
+2018-05-25 11:48:07|SHL-Group|cdelahaye|prospect
+2018-05-25 12:00:06|Smith Micro (SMSI)|cdelahaye|prospect
+2018-05-25 13:35:25|Internet Institute, Ltd||prospect
+2018-05-25 16:10:11|SNCF Réseau ||prospect
+2018-05-25 16:12:15|SNEF||prospect
+2018-05-25 16:23:58|SOCLE Technology Corporation||prospect
+2018-05-25 16:30:02|STR||prospect
+2018-05-25 16:31:22|Synacktiv ||prospect
+2018-05-25 16:34:21|Tech Mahindra ||prospect
+2018-05-25 16:40:21|Telstra||prospect
+2018-05-25 16:45:38|Tenna|cdelahaye|prospect
+2018-05-25 16:54:17|Juniper Networks|cdelahaye|prospect
+2018-05-25 16:57:53|Polaris Networks|cdelahaye|prospect
+2018-05-25 17:10:06|Thelis|cdelahaye|prospect
+2018-05-25 17:12:26|T-Mobile|cdelahaye|prospect
+2018-05-25 17:30:33|Traqueur |cdelahaye|prospect
+2018-05-25 17:34:40|Universitat Politecnica de Valencia |cdelahaye|prospect
+2018-05-25 17:39:56|Universiteit Gent (Ghent University)|cdelahaye|prospect
+2018-05-25 17:40:58|UC Santa Barbara |cdelahaye|prospect
+2018-05-25 17:42:13|University of Oklahoma |cdelahaye|prospect
+2018-05-25 17:46:44|University of the Basque Country, UPV/EHU|cdelahaye|prospect
+2018-05-25 17:48:05|U.S. FDA|cdelahaye|prospect
+2018-05-25 17:54:40|Vihaan Networks Limited (VNL) |cdelahaye|prospect
+2018-05-25 17:55:55|Visteon Corp. |cdelahaye|prospect
+2018-05-25 17:57:05|Zapata Technology|cdelahaye|prospect
+2018-05-28 11:15:23|CalAmp|cdelahaye|prospect
+2018-05-28 16:36:36|Fastlog|cdelahaye|prospect
+2018-05-30 09:35:22|Zurich Technology Solutions |cdelahaye|prospect
+2018-06-01 17:03:14|Transatel||prospect
+2018-06-04 11:19:57|AA Technologies cc|cdelahaye|prospect
+2018-06-05 11:46:12|Wonder Technology Solutions AB (WTS)|cdelahaye|prospect
+2018-06-05 13:16:23|Ultra Electronics |cdelahaye|prospect
+2018-06-06 11:04:58|Softronics Ltd.|cdelahaye|prospect
+2018-06-06 16:27:30|Orange IMT/OLS/BIZZ/MIS/CITY ||prospect
+2018-06-06 16:50:23|Stellenbosch University ||prospect
+2018-06-06 17:54:55|We are IT Philippines, Inc.||prospect
+2018-06-08 14:22:03|Flame Networks (Pvt.) Ltd||prospect
+2018-06-08 14:24:54|Hiltech Pty. Ltd.||prospect
+2018-06-08 14:26:53|Sony Semiconductor Solutions Corporation||prospect
+2018-06-08 14:28:43|Focus Infocom GmbH||prospect
+2018-06-08 16:22:03|RWTH Aachen University ||prospect
+2018-06-08 17:53:54|Ericsson Qatar||prospect
+2018-06-10 19:44:51|Jagdish Vadalia <jvadalia@ipethernet.com>|cdelahaye|prospect
+2018-06-12 10:19:09|Norwegian National Security Authority (NSM)|cdelahaye|prospect
+2018-06-12 15:55:26|Florida Institute of Technology|cdelahaye|prospect
+2018-06-13 17:21:07|Optimized Routing Solutions|cdelahaye|prospect
+2018-06-13 17:53:38|Aethra Telecommunications |cdelahaye|prospect
+2018-06-13 18:03:04|race result AG |cdelahaye|prospect
+2018-06-13 18:17:42|University of Illinois at Urbana-Champaign (UIUC)|cdelahaye|prospect
+2018-06-14 11:15:32|PROQUO Pty Ltd||customer
+2018-06-14 14:08:44|Bastille Networks Internet Security||prospect
+2018-06-15 09:59:51|SST Corporation|cdelahaye|prospect
+2018-06-15 15:49:29|Vanteon Corporation||prospect
+2018-06-15 17:03:26|Synopsys||prospect
+2018-06-19 14:29:06|Itello ||prospect
+2018-06-19 14:49:26|Giesecke+Devrient MS India Pvt. Ltd.|cdelahaye|prospect
+2018-06-20 10:44:43|Samsung Electronics|cdelahaye|prospect
+2018-06-20 15:22:05|GeoTraq, Inc.||prospect
+2018-06-20 15:32:05|Hughes/Echostar||prospect
+2018-06-21 18:30:54|DarkMatter |cdelahaye|prospect
+2018-06-22 08:21:31|Riedel Communication |cdelahaye|prospect
+2018-06-27 09:39:39|GAMMA Purchasing LLC|cdelahaye|customer
+2018-06-28 14:55:08|ALEX-MOBILE||prospect
+2018-06-28 15:48:52|Sonim Technologies||prospect
+2018-06-29 17:26:53|STMicroelectronics (Grand Ouest) SAS|cdelahaye|prospect
+2018-07-02 15:15:44|EDF R&D Chatou|nnikaein|customer
+2018-07-03 09:01:22|Cajutel Sarl |cdelahaye|prospect
+2018-07-03 09:09:13|SKY MEXICO |cdelahaye|prospect
+2018-07-04 11:54:39|SoftwareONE|cdelahaye|prospect
+2018-07-06 11:57:41|DIMOTEC |cdelahaye|prospect
+2018-07-06 12:05:23|Vector Technologies|cdelahaye|prospect
+2018-07-09 10:14:54|Skylo Technologies|cdelahaye|prospect
+2018-07-10 10:32:35|Rocket Communications Corp. |cdelahaye|prospect
+2018-07-10 10:34:42|DecisiveISR |cdelahaye|prospect
+2018-07-10 16:09:31|ITRI||prospect
+2018-07-10 16:18:26|Altice Labs ||prospect
+2018-07-11 10:34:23|Seven Hills Design |cdelahaye|prospect
+2018-07-11 17:55:37|Lociva |cdelahaye|prospect
+2018-07-13 09:30:59|Sixarms|cdelahaye|prospect
+2018-07-16 09:31:12|EPIC Communications Inc |cdelahaye|prospect
+2018-07-16 09:35:11|Wireless Data Net, LLC|cdelahaye|prospect
+2018-07-16 13:18:53|Department of Telecom -Government of India ||prospect
+2018-07-17 09:19:16|LGS Innovations|cdelahaye|prospect
+2018-07-17 09:25:12|Computer-Spezi |cdelahaye|prospect
+2018-07-17 10:14:27|Accenture|cdelahaye|customer
+2018-07-20 10:52:04|Art Group S.p.A|nnikaein|customer
+2018-07-20 11:45:30|Credits PTE LTD|cdelahaye|prospect
+2018-07-20 17:18:40|Parrot Drones S.A.S.|cdelahaye|prospect
+2018-07-23 14:37:01|COMPAREX Nederland B.V.|cdelahaye|customer
+2018-07-24 15:44:39|Mobile Devices||prospect
+2018-07-25 14:26:09|National Instruments (Liban)|cdelahaye|prospect
+2018-07-25 16:17:03|LinqQuest Telecom ||prospect
+2018-07-25 16:21:18|Ventus Technologies ||prospect
+2018-07-25 16:46:48|Comparex Belgique||prospect
+2018-07-26 13:57:21|DL-Kaichen||prospect
+2018-07-26 14:08:16|National Instruments Middle East & Africa||prospect
+2018-07-30 12:04:21|Research Broadband GmbH|cdelahaye|prospect
+2018-07-31 09:32:54|Harm Cronie|cdelahaye|prospect
+2018-08-03 11:23:16|Matan Wireless||prospect
+2018-08-27 11:11:24|Ability|marouan.bc|prospect
+2018-08-27 11:14:39|RAD|marouan.bc|prospect
+2018-08-27 11:54:23|AT&T Labs|cdelahaye|prospect
+2018-08-27 13:40:18|NCIM Groep |cdelahaye|prospect
+2018-08-27 13:57:04|Verveba|cdelahaye|prospect
+2018-08-27 16:45:51|RAD Data communications ||prospect
+2018-08-27 16:48:58|Acklio ||prospect
+2018-08-27 17:06:31|Tytan Results ||prospect
+2018-08-28 10:37:25|University of Strathlcyde|cdelahaye|prospect
+2018-08-28 10:47:18|Telit |cdelahaye|prospect
+2018-08-28 10:55:50|University of Patras |cdelahaye|prospect
+2018-08-28 10:58:50|Intratek Solutions |cdelahaye|prospect
+2018-08-28 11:59:23|Gemalto M2M GmbH||customer
+2018-08-28 15:25:50|EG R&D Sdn Bhd||prospect
+2018-08-29 09:59:03|MiCOM Labs |cdelahaye|prospect
+2018-08-29 11:31:44|COWAVES|cdelahaye|prospect
+2018-08-29 11:53:46|Global Logic|cdelahaye|prospect
+2018-08-29 14:35:37|IP Access India Pvt Ltd ||prospect
+2018-08-29 17:54:24|TEAMCAST ||prospect
+2018-08-31 09:42:48|Prianto GmbH|cdelahaye|customer
+2018-09-03 13:45:34|Cable AML||prospect
+2018-09-03 16:58:01|Tongji University||prospect
+2018-09-06 11:42:12|LCC Pakistan PVT LTD|cdelahaye|prospect
+2018-09-06 11:45:50|NETATMO|cdelahaye|prospect
+2018-09-07 08:56:40|IKERLAN|cdelahaye|prospect
+2018-09-10 11:38:04|Logistics Sustainment Technicians LLC|cdelahaye|prospect
+2018-09-11 11:21:58|Softline|cdelahaye|customer
+2018-09-12 09:54:09|HARMAN|cdelahaye|customer
+2018-09-13 14:41:51|Gemalto|cdelahaye|prospect
+2018-09-17 11:50:31|Ruhr-University Bochum||prospect
+2018-09-17 11:56:15|Pivotal Commware ||prospect
+2018-09-18 13:45:32|UQAT||prospect
+2018-09-18 14:05:35|Software Quality Leaders Inc. ||customer
+2018-09-19 11:27:21|University of Strathclyde ||prospect
+2018-09-19 11:39:04|Hitko GmbH ||prospect
+2018-09-19 11:43:35|Marvell Semiconductor ||prospect
+2018-09-19 11:47:21|Stimio||prospect
+2018-09-19 11:58:20|Mars Commerce||prospect
+2018-09-24 13:48:22|CalderaWire||prospect
+2018-09-25 10:00:35|Amerinode|cdelahaye|prospect
+2018-09-25 10:17:52|Murata|cdelahaye|prospect
+2018-09-25 11:39:35|Northwestern University|cdelahaye|prospect
+2018-09-26 10:38:40|Siemens Mobility GmbH|cdelahaye|prospect
+2018-09-26 11:24:53|Foxprocure Tech, Inc. |cdelahaye|prospect
+2018-09-27 11:01:24|Parallel Wireless|cdelahaye|prospect
+2018-09-27 11:33:44|Phoenix Contact|cdelahaye|prospect
+2018-09-27 11:35:19|Trend Micro|cdelahaye|prospect
+2018-09-27 11:38:49|Wehaus |cdelahaye|prospect
+2018-10-01 10:27:24|F3 Wireless|cdelahaye|prospect
+2018-10-01 11:30:15|OptimERA Inc|cdelahaye|prospect
+2018-10-01 11:40:51|University of Toronto|cdelahaye|prospect
+2018-10-01 14:32:31|Itron India Private Limited||prospect
+2018-10-01 14:36:07|MPM Telecomunications S.r.L.||prospect
+2018-10-01 18:43:16|Toyota InfoTechnology Center|cdelahaye|prospect
+2018-10-02 09:08:00|Triada-TV|cdelahaye|prospect
+2018-10-02 15:11:53|Massachusetts Institute of Technology (MIT Lincoln Laboratory)|cdelahaye|prospect
+2018-10-02 15:31:17|Loveless Security Concepts|cdelahaye|prospect
+2018-10-02 15:43:55|Technical University of Berlin|cdelahaye|prospect
+2018-10-03 09:52:34|Arizona State University|cdelahaye|prospect
+2018-10-05 11:33:36|GCT Semiconductor |cdelahaye|prospect
+2018-10-05 11:43:50|Research Institude of Telecommunication Technologies|cdelahaye|prospect
+2018-10-05 16:13:04|Sony Corporation|cdelahaye|prospect
+2018-10-08 17:34:08|Invoxia|cdelahaye|prospect
+2018-10-08 17:40:09|Murray Wireless|cdelahaye|prospect
+2018-10-09 09:46:14|Electric Power Research Institute|cdelahaye|prospect
+2018-10-09 11:28:10|BeamTrail|cdelahaye|prospect
+2018-10-09 14:15:08|Woodenshark LLC||prospect
+2018-10-09 15:00:23|Airspan Networks India Pvt Ltd.||prospect
+2018-10-10 17:38:55|Ridgeline International, Inc.||prospect
+2018-10-11 11:38:49|NuLink SA |cdelahaye|prospect
+2018-10-11 12:03:46|Ecole de Technologie Supérieure|cdelahaye|prospect
+2018-10-11 18:17:27|Elvaco AB|cdelahaye|prospect
+2018-10-12 14:18:02|Linquan|cdelahaye|prospect
+2018-10-12 14:36:50|MainOne |cdelahaye|prospect
+2018-10-12 14:42:05|CodexNow|cdelahaye|prospect
+2018-10-16 11:15:28|iVOCS Telecom|cdelahaye|prospect
+2018-10-16 13:15:01|Testech Electronics PTe Ltd||prospect
+2018-10-19 08:54:47|Wagz|cdelahaye|prospect
+2018-10-19 17:06:16|SUARA SEPI SDN. BHD.||customer
+2018-10-19 17:26:41|Lacroix Sofrel |cdelahaye|prospect
+2018-10-19 17:29:41|RTX A/S|cdelahaye|prospect
+2018-10-22 10:56:28|SFR|cdelahaye|prospect
+2018-10-22 11:06:17|Fujitsu Ltd, (Japan) |cdelahaye|prospect
+2018-10-22 14:46:30|The SEMA4 Group LLC|cdelahaye|prospect
+2018-10-23 11:12:33|PC Mini Tech (SpeedFI)|cdelahaye|prospect
+2018-10-23 14:48:35|Exatel SA |cdelahaye|prospect
+2018-10-23 15:47:19|Shenzhen DVBEI Technology Co., Ltd.|cdelahaye|prospect
+2018-10-24 17:22:42|SMK Manufacturing, Inc. ||prospect
+2018-10-25 10:39:08|Cisco Systems|cdelahaye|prospect
+2018-10-26 14:31:57|Gimasi SA|cdelahaye|prospect
+2018-10-26 14:40:04|Laird Tech|cdelahaye|prospect
+2018-10-26 15:06:57|VIAVI Solutions Inc.|cdelahaye|prospect
+2018-10-30 10:14:42|Palau Telecoms|cdelahaye|prospect
+2018-10-30 14:50:56|BRCK |cdelahaye|prospect
+2018-10-30 14:54:31|Opnety|cdelahaye|prospect
+2018-11-05 11:46:58|senseFly|cdelahaye|prospect
+2018-11-05 15:02:12|GreenWaves Technologies |cdelahaye|prospect
+2018-11-05 15:09:26|Swedish Police |cdelahaye|prospect
+2018-11-06 10:21:41|Eiffage Energie Systèmes – Sud-Ouest|cdelahaye|prospect
+2018-11-06 11:39:28|Intertek|cdelahaye|prospect
+2018-11-06 18:13:08|Cradlepoint, Inc |cdelahaye|prospect
+2018-11-07 10:22:35|Xylem|cdelahaye|prospect
+2018-11-07 10:38:54|Rainwise Inc.|cdelahaye|prospect
+2018-11-08 17:17:38|Voiceworks|cdelahaye|prospect
+2018-11-08 20:07:14|Fleet||prospect
+2018-11-09 16:09:19|Apple Europe||prospect
+2018-11-12 10:09:15|Shan'xi Reloadon electronic technology co., ltd    |cdelahaye|prospect
+2018-11-12 10:09:29|Datang Mobile Communications Equipment Co., Ltd   |cdelahaye|prospect
+2018-11-12 10:29:11|Australian Government Department of Foreign Affairs and Trade|cdelahaye|prospect
+2018-11-12 15:12:10|University of Liverpool|cdelahaye|prospect
+2018-11-13 11:37:48|Réseaux et Télécommunications ESMT|cdelahaye|prospect
+2018-11-15 11:08:00|Advanced Systems Research |cdelahaye|prospect
+2018-11-15 11:24:09|Bechtle Direct France|cdelahaye|customer
+2018-11-19 09:23:24|mIOT Pty Ltd|cdelahaye|prospect
+2018-11-19 09:38:26|Solve Metrics|cdelahaye|prospect
+2018-11-19 14:20:48|Swisscom ||prospect
+2018-11-19 15:05:05|Amarisoft R&D|epuig|customer
+2018-11-19 17:30:34|Fourth Dim|cdelahaye|prospect
+2018-11-19 18:12:00|Globtel Holding |cdelahaye|prospect
+2018-11-20 10:17:16|EU-CAST|cdelahaye|customer
+2018-11-20 16:04:42|EPAM Systems |cdelahaye|prospect
+2018-11-22 12:01:09|Garrett Technologies Inc ||prospect
+2018-11-22 12:03:34|LGSoft India||prospect
+2018-11-22 15:54:21|UAB “Ruptela”||prospect
+2018-11-23 15:26:43|Beijing TL-Chinasoft Technology Co.,Ltd.|cdelahaye|prospect
+2018-11-26 10:23:40|iSocket Systems Ltd|cdelahaye|prospect
+2018-11-27 11:58:58|Microtronics Engineering GmbH |cdelahaye|prospect
+2018-11-28 08:54:53|Oki Electric Industry Co., Ltd. |cdelahaye|prospect
+2018-11-29 10:37:25|Ministery of the Interior and Kingdom Relations|cdelahaye|prospect
+2018-11-29 16:21:42|Borderlight AB |cdelahaye|prospect
+2018-11-29 16:36:16|Svensk Coding Company AB|cdelahaye|prospect
+2018-12-05 08:42:11|Thorcom|cdelahaye|prospect
+2018-12-05 10:06:01|Telco Pvt. ltd Zimbabwe|cdelahaye|prospect
+2018-12-05 12:18:15|LANCOM Systems GmbH |cdelahaye|prospect
+2018-12-06 15:43:25|Blosave ltd|cdelahaye|prospect
+2018-12-06 18:25:29|Robert Bosch Engineering and Business Solutions Private Limited ||prospect
+2018-12-10 11:59:02|Rigel Kent Security |cdelahaye|prospect
+2018-12-10 15:03:03|Quectel China|nnikaein|customer
+2018-12-10 17:37:41|4RF Ltd |cdelahaye|prospect
+2018-12-12 11:22:58|SHI France||prospect
+2018-12-12 11:35:02|Bear Metal OÜ |cdelahaye|prospect
+2018-12-12 11:43:41|Hariton Wireless Consulting, LLC |cdelahaye|prospect
+2018-12-12 17:02:10|TECHNICAL UNIVERSITY OF MADRID ||prospect
+2018-12-14 10:58:15|ECONOCOM ||prospect
+2018-12-14 14:45:29|Travelping ||prospect
+2018-12-15 12:42:23|THALES SIX GTS FRANCE SAS||customer
+2018-12-15 14:51:26|Cordon do Brasil |cdelahaye|prospect
+2018-12-17 10:32:05|Motiv Solutions Limited |cdelahaye|prospect
+2018-12-18 10:12:05|UHS Systems |cdelahaye|prospect
+2018-12-18 11:21:20|CaribSat|cdelahaye|customer
+2018-12-18 18:49:38|Prescient Wireless ||prospect
+2018-12-19 14:42:04|YeniHayat Bilişim |cdelahaye|prospect
+2018-12-19 15:22:58|Pivot Solutions LLC|cdelahaye|prospect
+2018-12-19 16:38:16|Albacomp RI Ltd. |cdelahaye|prospect
+2018-12-20 19:20:00|Novel Bits, LLC||prospect
+2018-12-21 11:13:13|Weiron Technology||prospect
+2018-12-21 14:47:52|Hansamatrix Innovation||prospect
+2019-01-02 10:23:47|Alibaba|cdelahaye|prospect
+2019-01-02 10:25:42|Shen Zhen Tozed technologies Co., Ltd.  |cdelahaye|prospect
+2019-01-02 10:37:51|Trackimo|cdelahaye|prospect
+2019-01-02 15:58:28|Odine Solutions |cdelahaye|prospect
+2019-01-03 15:23:48|CNLABS ||prospect
+2019-01-03 17:23:10|Averna|cdelahaye|prospect
+2019-01-07 11:37:04|Sierra Software Ltd (SSLA)|cdelahaye|prospect
+2019-01-07 16:57:46|Hala Systems ||prospect
+2019-01-09 10:31:12|CISCO CRDC|cdelahaye|prospect
+2019-01-09 14:56:01|Google UK||prospect
+2019-01-09 14:57:56|CCww ||prospect
+2019-01-09 16:35:09|Dynamo CIS||prospect
+2019-01-10 10:24:08|QinetiQ|cdelahaye|prospect
+2019-01-11 16:59:42|SWAG TECHNOLOGIES SDN BHD |cdelahaye|prospect
+2019-01-14 11:27:01|Eolane |cdelahaye|prospect
+2019-01-14 11:42:45|Primex|cdelahaye|prospect
+2019-01-14 16:39:10|LABICS|cdelahaye|prospect
+2019-01-16 11:27:07|Leading Innovation Technologies|cdelahaye|prospect
+2019-01-17 14:53:07|TeamConnect, LLC|cdelahaye|prospect
+2019-01-17 18:04:26|Parallel Wireless Israel|cdelahaye|customer
+2019-01-18 15:09:16|Digital Catapult |cdelahaye|prospect
+2019-01-18 16:00:27|Elta |cdelahaye|prospect
+2019-01-21 11:05:32|IDEMIA |cdelahaye|prospect
+2019-01-21 18:20:42|Mavenir Systems, Inc. ||prospect
+2019-01-22 11:41:09|Chrent Instruments Rental Company|cdelahaye|prospect
+2019-01-22 15:59:45|Canal de Comunicaciones Unidas ||prospect
+2019-01-22 16:22:47|Lenovo||prospect
+2019-01-22 17:18:47|Airbus Operations S.A.S|nnikaein|customer
+2019-01-24 15:00:04|Hilco IP Merchant Bank ||prospect
+2019-01-24 15:02:30|Yahsat ||prospect
+2019-01-24 15:13:03|Birdz||prospect
+2019-01-30 09:30:04|Panasonic|cdelahaye|prospect
+2019-01-30 09:33:00|eSoftThings|cdelahaye|prospect
+2019-01-30 09:35:32|Ayyeka Technologies |cdelahaye|prospect
+2019-01-30 19:16:25|Case New Holland|cdelahaye|prospect
+2019-01-31 17:27:10|Akkucomp Hungary Ltd (GenXsen)||prospect
+2019-01-31 17:36:18|Trescal MS S.R.L. a S. U.||prospect
+2019-02-01 11:10:10|Telpin Ltda.|cdelahaye|prospect
+2019-02-01 15:23:49|Ventus Wireless LLC|cdelahaye|customer
+2019-02-01 17:36:57|Insight||prospect
+2019-02-04 09:58:11|Convergence Partners |cdelahaye|prospect
+2019-02-04 10:20:16|University of Reggio Calabria|cdelahaye|prospect
+2019-02-04 11:51:02|TÜBITAK (THE SCIENTIFIC AND TECHNOLOGICAL RESEARCH COUNCIL OF TURKEY)|cdelahaye|prospect
+2019-02-05 16:46:29|Czech Technical University ||prospect
+2019-02-05 16:49:57|Assured Wireless Corp ||prospect
+2019-02-05 16:52:45|Caesar Creek Software||prospect
+2019-02-05 18:29:44|AttoCore ||prospect
+2019-02-07 17:26:29|AIrspan|nnikaein|customer
+2019-02-08 13:49:16|Keysight Technologies Belgium bvba||prospect
+2019-02-08 17:04:33|Cornet Technology India Pvt Ltd||prospect
+2019-02-11 11:50:42|Bluetest AB|cdelahaye|prospect
+2019-02-12 10:14:16|Thinkitive |cdelahaye|prospect
+2019-02-12 11:19:24|Software Box Ltd |cdelahaye|prospect
+2019-02-12 15:21:32|MeDeCo Elektronik T&S|cdelahaye|prospect
+2019-02-12 15:22:47|Moonshot Group |cdelahaye|prospect
+2019-02-12 15:40:56|AntamnTech|cdelahaye|prospect
+2019-02-12 16:05:36|Aruba|cdelahaye|prospect
+2019-02-12 16:10:23|Corner Technology Inc|cdelahaye|prospect
+2019-02-13 10:22:35|Centre Tecnològic de Telecomunicacions de Catalunya (CTTC)|cdelahaye|prospect
+2019-02-13 10:59:05|Check Point Software Technologies LTD|cdelahaye|prospect
+2019-02-13 11:01:46|2N Telekomunikace a.s. |cdelahaye|prospect
+2019-02-13 11:09:57|Yara|cdelahaye|prospect
+2019-02-13 12:05:20|FULLSYSTEM S.P.A. |cdelahaye|prospect
+2019-02-13 14:51:22|Lamda Concept|cdelahaye|customer
+2019-02-13 14:56:42|PSA|cdelahaye|prospect
+2019-02-14 11:12:33|SoftBank|cdelahaye|prospect
+2019-02-14 16:44:13|Riviera Venture Capital,LLC|cdelahaye|customer
+2019-02-15 19:43:40|CERTI Centers of Reference in Innovative Technologies ||prospect
+2019-02-17 19:15:45|DishNet Africa Ltd |cdelahaye|prospect
+2019-02-18 10:10:42|Mobicom Corporation|cdelahaye|prospect
+2019-02-18 10:41:57|Onward Security Co|cdelahaye|prospect
+2019-02-18 18:05:00|Whitespace Technology Limited |cdelahaye|prospect
+2019-02-19 10:21:32|Macnica networks |cdelahaye|prospect
+2019-02-19 19:12:56|KDDI Research, Inc.||prospect
+2019-02-20 10:45:27|Particle Industries||prospect
+2019-02-20 16:22:22|Sierra Wireless Solution & Services S.A.||customer
+2019-02-25 10:57:07|Al-Majarra||prospect
+2019-02-25 11:00:56|Sercomm||prospect
+2019-03-04 10:12:41|Skyworks |cdelahaye|prospect
+2019-03-04 11:02:17|Rakuten|cdelahaye|prospect
+2019-03-04 11:45:15|ART-Fi|cdelahaye|prospect
+2019-03-05 15:39:30|Kontron Europe GmbH|cdelahaye|prospect
+2019-03-05 15:46:29|Libre Wireless Technologies, Inc.|cdelahaye|prospect
+2019-03-05 16:01:42|Avantix|cdelahaye|prospect
+2019-03-05 16:14:59|Cobham Aerospace Connectivity|cdelahaye|prospect
+2019-03-05 16:21:28|Head acoustics. GmbH |cdelahaye|prospect
+2019-03-05 16:23:53|TSAT AS  |cdelahaye|prospect
+2019-03-06 08:52:23|CCG group ||prospect
+2019-03-06 10:11:22|University of Central Florida||prospect
+2019-03-06 10:15:12|See Telecom||prospect
+2019-03-06 10:21:18|University of Rome Tor Vergata ||prospect
+2019-03-06 12:08:04|Silicom||prospect
+2019-03-06 14:57:49|IRT Saint Exupéry|cdelahaye|prospect
+2019-03-07 10:27:39|Adheretexh|cdelahaye|prospect
+2019-03-07 10:43:05|Spirent China|cdelahaye|prospect
+2019-03-07 17:17:58|Sahel ISP net|cdelahaye|prospect
+2019-03-08 10:27:02|ITC Services |cdelahaye|prospect
+2019-03-08 10:33:16|Konrad Technologies |cdelahaye|prospect
+2019-03-08 17:37:48|Miami University||prospect
+2019-03-11 16:02:09|Kiniku Nusa Kreasi||prospect
+2019-03-11 16:10:48|Siemens Ltd. China||prospect
+2019-03-11 16:20:43|AdhereTech|cdelahaye|prospect
+2019-03-12 10:39:44|General Dynamics Mission Systems Canada|cdelahaye|prospect
+2019-03-14 16:04:34|AXIONE France |cdelahaye|prospect
+2019-03-14 16:07:29|Wipro Technologies|cdelahaye|prospect
+2019-03-14 19:15:48|Sooktha|cdelahaye|prospect
+2019-03-18 11:20:35|Sintela Ltd |cdelahaye|prospect
+2019-03-18 11:38:50|Universitat Politecnica de Catalunya |cdelahaye|prospect
+2019-03-18 16:00:22|Sysmocom|pquantin|customer
+2019-03-18 18:49:46|Siemens||prospect
+2019-03-20 09:52:51|Islamic University of Technology (IUT) |cdelahaye|prospect
+2019-03-20 19:27:50|D2tech ||prospect
+2019-03-20 19:29:55|Federated Wireless||prospect
+2019-03-22 10:15:39|Gitsol|cdelahaye|prospect
+2019-03-22 10:18:56|Huawei International|cdelahaye|prospect
+2019-03-22 16:15:55|ETRI ||prospect
+2019-03-25 11:20:59|Pyramid Technologies |cdelahaye|prospect
+2019-03-27 16:21:46|Directique||prospect
+2019-03-27 16:23:06|DUDUIT||prospect
+2019-03-27 16:46:32|Microsoft||prospect
+2019-03-28 10:30:52|Polte |cdelahaye|prospect
+2019-03-28 16:46:29|Conectalis SL||customer
+2019-04-01 10:47:12|Delta Electronics|cdelahaye|prospect
+2019-04-01 11:25:37|AC&C|cdelahaye|prospect
+2019-04-01 11:56:11|OJSC GlobalInformService|cdelahaye|prospect
+2019-04-02 11:01:10|pdv-corporate|nnikaein|customer
+2019-04-02 11:25:44|Microdian Sdn Bhd|cdelahaye|prospect
+2019-04-02 15:50:56|Tekmar Control Systems|cdelahaye|prospect
+2019-04-03 11:46:58|Radio-Electronic BV |cdelahaye|prospect
+2019-04-03 16:31:58|Parallel Wireless India||customer
+2019-04-04 10:21:54|Unis Telekom dd|cdelahaye|prospect
+2019-04-05 09:05:30|Zones||prospect
+2019-04-05 11:40:55|AT&T/DirecTV/Sky ||prospect
+2019-04-05 18:31:18|Keysight Technologies Malaysia Sdn Bhd|cdelahaye|customer
+2019-04-08 11:17:01|iSERT|cdelahaye|prospect
+2019-04-08 11:21:38|Redline Communications |cdelahaye|prospect
+2019-04-08 15:47:14|Wimax Polska||prospect
+2019-04-09 10:16:42|CXLINKS|cdelahaye|customer
+2019-04-09 15:15:03|ZoX Technologies Co，. Ltd.|cdelahaye|prospect
+2019-04-10 12:07:31|StarVedia||prospect
+2019-04-10 15:44:49|i2CAT foundation ||prospect
+2019-04-10 16:05:44|Institute of Electrical and Electronics Engineers (IEEE)|cdelahaye|prospect
+2019-04-10 21:35:59|Technical University of Denmark |cdelahaye|prospect
+2019-04-11 17:17:58|MTC|cdelahaye|prospect
+2019-04-12 11:25:31|Extreme Engineering Bangladesh||prospect
+2019-04-12 15:52:30|FCA Sp.zo.o. ||prospect
+2019-04-12 15:56:40|Meritech Co., Ltd.||prospect
+2019-04-19 09:43:40|Xilan|marouan.bc|customer
+2019-04-23 12:09:28|Ceva Inc|cdelahaye|prospect
+2019-04-23 14:34:05|Modern Technologies of Communications|cdelahaye|prospect
+2019-04-23 15:16:20|wawraitsolutions|cdelahaye|prospect
+2019-04-23 15:20:42|Petrocorp Ltd|cdelahaye|prospect
+2019-04-23 16:01:45|MTS PJSC|cdelahaye|prospect
+2019-04-24 15:25:57|u-blox Korea||prospect
+2019-04-24 15:51:16|CLAM||prospect
+2019-04-24 16:12:51|Sina Co.||prospect
+2019-04-25 11:25:19|Sintels|cdelahaye|prospect
+2019-04-25 11:57:27|china datang mobile |cdelahaye|prospect
+2019-04-26 10:51:18|Truminds Software Systems|cdelahaye|prospect
+2019-04-26 14:48:29|Pierson Wireless |cdelahaye|prospect
+2019-04-30 21:54:16|ANSE Technology ||prospect
+2019-05-02 10:25:52|Device Solutions Inc. |cdelahaye|prospect
+2019-05-03 11:11:39|UL||prospect
+2019-05-03 15:38:00|Advanced Communication Technology & Solutions Corporation (ACTS)||prospect
+2019-05-03 16:19:49|Alepo||prospect
+2019-05-03 16:21:53|AMD||prospect
+2019-05-03 16:53:52|Anritsu||prospect
+2019-05-03 16:55:30|ARLAN SI||prospect
+2019-05-03 16:56:45|ASELSAN A.S||prospect
+2019-05-03 16:57:32|AST&Science||prospect
+2019-05-03 17:28:40|3GG||prospect
+2019-05-06 11:33:26|Force12 Networks |cdelahaye|prospect
+2019-05-06 15:42:11|Hahn-Schickard|cdelahaye|prospect
+2019-05-06 17:37:44|U-TX Technologies LTD||prospect
+2019-05-07 14:02:37|Iskraemeco d.d. |cdelahaye|prospect
+2019-05-13 10:56:28|Aptiv |cdelahaye|prospect
+2019-05-13 11:03:48|Amphenol Antenna Solutions |cdelahaye|prospect
+2019-05-13 11:16:19|Escuela Politécnica Nacional (EPN)|cdelahaye|prospect
+2019-05-13 16:18:59|MVG Industries |cdelahaye|prospect
+2019-05-14 11:36:27|Mobileum |cdelahaye|prospect
+2019-05-15 11:53:42|Australian Government Australian Signals Directorate|cdelahaye|prospect
+2019-05-15 19:18:04|KTH Royal Institute of Technology|cdelahaye|prospect
+2019-05-16 10:28:22|Fraunhofer Heinrich Hertz Institute (HHI) |cdelahaye|prospect
+2019-05-16 16:10:59|Barik Telecom||prospect
+2019-05-16 16:21:10|Beijing Sensoro Technology Co.,Ltd.||prospect
+2019-05-16 16:22:22|Benetel||prospect
+2019-05-16 16:23:07|BLiNQ Networks||prospect
+2019-05-16 16:23:48|Bluetown||prospect
+2019-05-16 16:27:02|CellAntenna International||prospect
+2019-05-16 16:31:46|Comtest Wireless International Srl|cdelahaye|prospect
+2019-05-16 16:32:51|COVENANT TEL|cdelahaye|prospect
+2019-05-16 16:56:02|Darkblue Systems|cdelahaye|prospect
+2019-05-16 17:11:25|Keweitai Enterprise Development Co., Ltd. |cdelahaye|prospect
+2019-05-16 17:13:12|DSTL|cdelahaye|prospect
+2019-05-16 17:15:15|Dyrun Telecom|cdelahaye|prospect
+2019-05-16 17:17:14|Etalon Factory LLC|cdelahaye|prospect
+2019-05-16 17:19:52|Fast Forward|cdelahaye|prospect
+2019-05-16 17:20:54|Ffly4u|cdelahaye|prospect
+2019-05-16 17:22:48|Brytlyt|cdelahaye|prospect
+2019-05-16 17:32:02|Elvees|cdelahaye|prospect
+2019-05-16 17:47:52|Famaco|cdelahaye|prospect
+2019-05-17 10:53:34|EDMI Ltd |cdelahaye|prospect
+2019-05-17 12:30:05|Ceslink|cdelahaye|prospect
+2019-05-20 10:19:45|Fisher and Paykel Healthcare |cdelahaye|prospect
+2019-05-20 15:00:19|EMG2 |cdelahaye|prospect
+2019-05-21 10:21:59|Nokia Germany|cdelahaye|prospect
+2019-05-21 11:19:45|Lear Corporation|cdelahaye|prospect
+2019-05-22 10:30:27|Belnor Contracting Inc|cdelahaye|prospect
+2019-05-22 12:25:39|Tiesse SpA||prospect
+2019-05-22 17:06:27|Zones (UK) Ltd||customer
+2019-05-22 17:12:50|Microsoft UK||customer
+2019-05-23 10:13:00|The Coding Company |cdelahaye|prospect
+2019-05-23 16:23:51|Tinhvan Co.Ltd |cdelahaye|prospect
+2019-05-23 17:41:21|GLEAN Corporation|cdelahaye|prospect
+2019-05-23 17:42:08|InnoWave|cdelahaye|prospect
+2019-05-23 17:43:01|Intel China Ltd.|cdelahaye|prospect
+2019-05-23 17:45:19|IRE-Polus|cdelahaye|prospect
+2019-05-23 18:06:34|Jet Infosystems|cdelahaye|prospect
+2019-05-23 18:09:40|KZ BROADBAND TECHNOLOGIES, LTD.|cdelahaye|prospect
+2019-05-23 18:18:02|MANAS NETWORKS|cdelahaye|prospect
+2019-05-23 18:20:02|MediaTek Taiwan|cdelahaye|prospect
+2019-05-27 10:28:41|Ubiqam|cdelahaye|prospect
+2019-05-27 11:56:38|Oceus |cdelahaye|prospect
+2019-05-27 18:50:14|MICROTELECOM S.A.||prospect
+2019-05-27 18:51:00|Mobilecomm Professionals Inc||prospect
+2019-05-27 18:51:48|Monogoto||prospect
+2019-05-27 18:53:28|N-Able Private Limited||prospect
+2019-05-27 18:55:07|Nouvenn||prospect
+2019-05-27 18:56:27|NTO IRE-Polus||prospect
+2019-05-27 19:06:38|Moeco||prospect
+2019-05-28 13:03:19|Moonoff |cdelahaye|prospect
+2019-05-29 14:19:19|Rongteng.Co ||prospect
+2019-05-29 15:54:09|Giesecke & Devrient India||prospect
+2019-05-29 16:27:33|Nixu ||prospect
+2019-06-03 10:17:57|Harman Connected Services |cdelahaye|prospect
+2019-06-03 11:03:38|Alethea |cdelahaye|prospect
+2019-06-04 11:34:19|LogicDesign Inc. |cdelahaye|prospect
+2019-06-06 11:27:04|Shenzhen Goodix Technology Co., Ltd. |cdelahaye|prospect
+2019-06-06 16:14:37|Parallel Wireless UK Ltd|cdelahaye|customer
+2019-06-11 11:24:09|LLC "Sernia Engineering" |cdelahaye|prospect
+2019-06-11 16:56:13|Riot Micro Sàrl|cdelahaye|prospect
+2019-06-12 11:15:12|DAATRICS Ltd|cdelahaye|prospect
+2019-06-12 11:29:26|Commscope Technologies LLC|cdelahaye|customer
+2019-06-12 14:54:24|Luowave Electronics Co., Ltd.|cdelahaye|prospect
+2019-06-14 10:49:13|SCC (marché UGAP)|cdelahaye|prospect
+2019-06-14 11:03:08|Mundotel|cdelahaye|prospect
+2019-06-14 11:05:32|SRM Institute of Science and Technology |cdelahaye|prospect
+2019-06-18 12:14:03|Vicomtech ||prospect
+2019-06-18 15:26:05|grandcentrix GmbH |cdelahaye|prospect
+2019-06-18 15:37:34|Traxens|cdelahaye|prospect
+2019-06-19 18:23:39|Innovsys Tech|cdelahaye|prospect
+2019-06-19 18:52:39|Cisco Systems France|cdelahaye|prospect
+2019-06-20 11:55:38|Nanjing University Of Aeronautics And Astronautics|hbilel|customer
+2019-06-21 15:24:40|Panasonic Germany|cdelahaye|prospect
+2019-06-21 15:26:53|Patchi S.a.l.|cdelahaye|prospect
+2019-06-21 15:28:17|Radio Gigabit|cdelahaye|prospect
+2019-06-21 15:30:08|RF Channel|cdelahaye|prospect
+2019-06-21 15:36:57|SeismicAI|cdelahaye|prospect
+2019-06-21 15:38:23|Serco|cdelahaye|prospect
+2019-06-24 10:54:10|SOLiD|cdelahaye|prospect
+2019-06-24 10:55:33|Sozvezdie|cdelahaye|prospect
+2019-06-24 10:56:18|Space Data Corp|cdelahaye|prospect
+2019-06-24 11:00:33|Telrad Networks|cdelahaye|prospect
+2019-06-24 11:06:38|Unikie|cdelahaye|prospect
+2019-06-24 11:12:19|TomTom Telematics |cdelahaye|prospect
+2019-06-24 11:22:46|Zain Bahrain|cdelahaye|prospect
+2019-06-24 14:23:55|Super Micro Computer, Inc.|cdelahaye|prospect
+2019-06-24 14:25:34|Synopsys US|cdelahaye|prospect
+2019-06-24 17:08:41|Embertec ||prospect
+2019-06-25 09:00:15|Suneris|cdelahaye|prospect
+2019-06-27 09:01:40|Hub One |cdelahaye|prospect
+2019-06-28 10:22:37|Aseptika Ltd|cdelahaye|prospect
+2019-06-28 10:24:44|Zoov |cdelahaye|prospect
+2019-07-02 10:57:42|Ribbon Communications ||prospect
+2019-07-02 16:17:19|Qualcomm India Private Limited ||prospect
+2019-07-03 17:06:25|SIGOS GmbH ||prospect
+2019-07-04 09:25:18|Neutral Wireless|cdelahaye|prospect
+2019-07-04 11:15:45|Airspan ATE IL||customer
+2019-07-05 15:29:42|Software Labs Toulouse|cdelahaye|prospect
+2019-07-05 15:30:45|Renault SW Labs Toulouse|cdelahaye|prospect
+2019-07-10 12:16:21|CR Rao Institute |cdelahaye|prospect
+2019-07-11 09:37:04|NEXVISION |cdelahaye|prospect
+2019-07-11 15:54:38|Havelsan |cdelahaye|prospect
+2019-07-12 17:10:04|SEQUENTRIC Energy Systems, LLC||prospect
+2019-07-12 18:24:30|Gentick ||prospect
+2019-07-12 19:16:49|Arris Group UK||prospect
+2019-07-15 16:46:04|OJSC Megafon||prospect
+2019-07-15 21:20:48|Arity |cdelahaye|prospect
+2019-07-16 10:46:41|GenXComm|cdelahaye|prospect
+2019-07-16 10:49:47|Telemaco Melia|cdelahaye|prospect
+2019-07-16 13:19:39|Thales (NIS)|cdelahaye|customer
+2019-07-16 17:54:27|Radiojitter |cdelahaye|prospect
+2019-07-16 18:06:36|3Z Telecom|cdelahaye|prospect
+2019-07-16 18:15:06|Institute for Infocomm Research|cdelahaye|prospect
+2019-07-17 09:52:08|SIMCO Electronics|cdelahaye|prospect
+2019-07-17 19:50:03|APD FECTUM S.L.||prospect
+2019-07-18 10:49:39|Centre for Development of Telematics |cdelahaye|prospect
+2019-07-18 11:10:20|Redline Digital Satellite |cdelahaye|prospect
+2019-07-19 14:01:12|UQAM|cdelahaye|prospect
+2019-07-19 20:19:09|Airbus Defence & Space Spain|cdelahaye|prospect
+2019-07-22 11:04:18|GoFoton|cdelahaye|prospect
+2019-07-22 11:28:10|Cybersecurity technology Institute  for information Industry|cdelahaye|prospect
+2019-07-22 13:18:04|Exquisip|cdelahaye|prospect
+2019-07-23 09:42:20|True Networks Co., Ltd. |cdelahaye|prospect
+2019-07-23 13:58:12|Dense Air Ltd|cdelahaye|prospect
+2019-07-23 14:58:03|E.T.C. (European Technologie Concept)|cdelahaye|prospect
+2019-07-24 16:19:11|Triple|cdelahaye|prospect
+2019-07-24 16:48:01|TE Connectivity|cdelahaye|prospect
+2019-07-25 09:03:03|Labcom Technology|cdelahaye|prospect
+2019-07-25 09:06:04|LTD Broadband |cdelahaye|prospect
+2019-07-29 09:53:34|SeaShore Technologies|cdelahaye|prospect
+2019-07-29 14:39:50|Spectom Technology ||prospect
+2019-07-30 13:39:18|C-S Systèmes d'Information||prospect
+2019-07-31 16:19:27|PING AN INSURANCE (GROUP) COMPANY OF CHINA, LTD. ||prospect
+2019-07-31 18:49:45|KTB Import-Export Handelsgesellschaft mbH & Co. KG||prospect
+2019-08-01 11:53:40|Wavemobile Ltd|cdelahaye|prospect
+2019-08-01 11:57:08|Verizon |cdelahaye|prospect
+2019-08-01 11:58:13|Alif Semiconductor USA, Inc.|cdelahaye|prospect
+2019-08-02 17:49:46|OSINT TECH LTD||prospect
+2019-08-12 17:23:02|wavemobile|marouan.bc|customer
+2019-08-19 16:59:30|CellXica|marouan.bc|customer
+2019-08-22 11:59:16|digi|marouan.bc|customer
+2019-08-26 09:23:07|New Zealand Defence Force |cdelahaye|prospect
+2019-08-26 09:25:19|eInfochips|cdelahaye|prospect
+2019-08-26 09:42:03|VEONEER |cdelahaye|prospect
+2019-08-26 09:56:52|Samsung Poland|cdelahaye|prospect
+2019-08-26 11:16:08|Miyakawa Electric Works |cdelahaye|prospect
+2019-08-26 11:17:28|Geoforce |cdelahaye|prospect
+2019-08-26 11:20:00|A2U Ltd|cdelahaye|customer
+2019-08-26 11:24:22|Entropy Solution |cdelahaye|prospect
+2019-08-26 13:52:30|Techbros Gmbh |cdelahaye|prospect
+2019-08-26 13:54:24|Bird Rides|cdelahaye|prospect
+2019-08-26 13:55:34|Baicells |cdelahaye|prospect
+2019-08-26 14:07:40|Corning Optical Communications |cdelahaye|prospect
+2019-08-26 14:23:59|C2T3 / CEGEP trois-Rivieres|cdelahaye|prospect
+2019-08-26 15:21:30|Valeo|cdelahaye|prospect
+2019-08-26 15:48:03|Viasat|cdelahaye|prospect
+2019-08-26 15:52:10|National Oceanic and Atmospheric Administration (NOAA)|cdelahaye|prospect
+2019-08-26 15:56:52|itPrishtina |cdelahaye|prospect
+2019-08-26 16:03:40|Sino-Hydra Technologies |cdelahaye|prospect
+2019-08-26 16:27:07|Averia Electronics LLC|cdelahaye|prospect
+2019-08-26 16:47:28|SCR Dairy|cdelahaye|prospect
+2019-08-27 09:41:38|Red Embedded |cdelahaye|prospect
+2019-08-27 09:46:26|TMA |cdelahaye|prospect
+2019-08-27 09:48:26|DEKRA Testing and Certification S.A. |cdelahaye|prospect
+2019-08-27 09:53:13|Safran Aerosystems | Data Systems|cdelahaye|prospect
+2019-08-27 11:09:07|Palma Ceia SemiDesign ||prospect
+2019-08-27 11:40:43|China Electronics Huada Technology Company Limited ||prospect
+2019-08-27 11:42:53|SML Wireless ||prospect
+2019-08-27 11:46:38|Metawave ||prospect
+2019-08-27 13:15:39|GLOTECH GmbH ||customer
+2019-08-29 15:08:43|Thales India Pvt. Ltd |cdelahaye|prospect
+2019-08-29 17:20:06|CNES|cdelahaye|customer
+2019-08-30 10:02:05|Navigacom |cdelahaye|prospect
+2019-08-30 10:04:31|Binghamton University|cdelahaye|prospect
+2019-08-30 17:22:37|AVM GmbH||prospect
+2019-09-02 08:04:15|Educon|cdelahaye|prospect
+2019-09-02 09:56:31|Southern Traders Inc |cdelahaye|prospect
+2019-09-03 11:35:17|Universidad de Murcia ||prospect
+2019-09-03 11:37:53|University of Luxembourg ||prospect
+2019-09-03 11:40:13|Node-H GmbH ||prospect
+2019-09-04 11:40:57|Flowbird S.A.S|cdelahaye|prospect
+2019-09-05 16:53:34|PARSONS |cdelahaye|prospect
+2019-09-05 17:56:12|Flextronics International, Ltd|cdelahaye|prospect
+2019-09-09 09:53:11|S-Telematics|cdelahaye|prospect
+2019-09-09 10:26:01|BTS Technology Inc|cdelahaye|prospect
+2019-09-09 10:45:30|Wisenics Ltd |cdelahaye|prospect
+2019-09-09 15:03:06|CellBounce||prospect
+2019-09-09 15:12:26|Cyfrowy Polsat S.A. ||prospect
+2019-09-09 15:59:37|Novanetic, Inc. ||prospect
+2019-09-09 16:01:42|brown-iposs||prospect
+2019-09-09 17:01:19|Arpanet Italia Srl ||prospect
+2019-09-11 10:19:05|WpoTech ||prospect
+2019-09-11 10:26:48|Cavli Wireless ||prospect
+2019-09-11 11:27:28|AVIWEST ||prospect
+2019-09-11 17:27:24|Thales China||prospect
+2019-09-13 16:52:02|COCUS AG||prospect
+2019-09-13 18:01:11|NXP Semiconductors ||prospect
+2019-09-16 15:50:09|NanoCell Networks Pvt Ltd |cdelahaye|prospect
+2019-09-17 09:20:54|alpha design technologies |cdelahaye|prospect
+2019-09-17 10:18:01|Encore Networks, Inc. |cdelahaye|prospect
+2019-09-17 14:33:13|Sensorbee |cdelahaye|prospect
+2019-09-17 16:09:42|KEAS ||prospect
+2019-09-18 10:55:41|Slovak University of Technology ||prospect
+2019-09-18 11:16:51|Arad Technologies |cdelahaye|prospect
+2019-09-18 14:19:14|Vinsmart||prospect
+2019-09-18 16:45:28|ISP Technology S.A.S ||prospect
+2019-09-23 09:00:36|Versatest Solutions and Services Inc |cdelahaye|prospect
+2019-09-23 09:51:04|Clear Mobitel Ltd |cdelahaye|prospect
+2019-09-24 12:13:55|SITNEF Digital |cdelahaye|prospect
+2019-09-24 12:20:54|Applus+ Laboratories |cdelahaye|prospect
+2019-09-24 12:24:28|Digigram |cdelahaye|prospect
+2019-09-25 19:24:36|Digital Matter |cdelahaye|prospect
+2019-09-26 11:45:52|Tismo Technology Solutions (P) Ltd.|cdelahaye|prospect
+2019-09-26 14:28:04|CGI IT UK LIMITED |cdelahaye|prospect
+2019-09-27 09:59:22|KL2B SAS|cdelahaye|customer
+2019-09-27 12:08:58|Andsystems LLC|cdelahaye|prospect
+2019-09-27 15:09:03|Cisco Systems Inc.|cdelahaye|customer
+2019-09-27 15:46:26|Halys|cdelahaye|prospect
+2019-09-30 09:39:50|NAVICO|cdelahaye|prospect
+2019-09-30 10:44:27|GoQuantum SpA|cdelahaye|prospect
+2019-10-01 09:34:09|Universidade de Vigo |cdelahaye|prospect
+2019-10-01 11:48:13|Viet Hai JSC |cdelahaye|prospect
+2019-10-01 16:15:16|Samsung UK|cdelahaye|prospect
+2019-10-04 14:32:37|HEIG-VD (Haute École d'Ingénierie du Canton de Vaud)|cdelahaye|prospect
+2019-10-04 14:51:15|Fondazione Bruno Kessler (FBK)|cdelahaye|prospect
+2019-10-08 14:05:58|UBITECH Ltd.|cdelahaye|prospect
+2019-10-08 16:23:00|Node-H UK||customer
+2019-10-09 10:15:28|Assimilatus ||prospect
+2019-10-09 10:27:30|Hectronic AB||prospect
+2019-10-10 16:27:44|Insight Europe|cdelahaye|prospect
+2019-10-14 09:38:35|Webmasters Lda |cdelahaye|prospect
+2019-10-15 10:03:07|University of Chicago |cdelahaye|prospect
+2019-10-15 15:07:01|Signal Solutions Nordic Oy|cdelahaye|customer
+2019-10-16 09:24:21|BAE Systems - |cdelahaye|prospect
+2019-10-16 11:51:29|Siemens, s.r.o.|cdelahaye|prospect
+2019-10-16 16:50:34|Itron France||prospect
+2019-10-21 09:28:57|Intel Taiwan|cdelahaye|prospect
+2019-10-21 09:30:51|Integrium (Smartit)|cdelahaye|prospect
+2019-10-21 11:18:29|institute of microelectronics chinese academy of sciences ||customer
+2019-10-22 11:15:55|eDevice Technology |cdelahaye|prospect
+2019-10-22 13:56:25|ExperBuy France|cdelahaye|customer
+2019-10-24 09:56:26|Roke Manor Research Ltd |cdelahaye|prospect
+2019-10-24 18:03:55|Beijing University of Posts and Telecommunications ||prospect
+2019-10-25 12:14:58|Shenyang Institute of Automation Chinese Academy of Sciences ||prospect
+2019-10-25 17:30:31|Telit Italy||prospect
+2019-10-28 12:18:14|GCHQ|cdelahaye|prospect
+2019-10-28 17:25:27|Moeco IoT |cdelahaye|prospect
+2019-10-29 16:18:37|University of Malaga |cdelahaye|prospect
+2019-10-29 16:29:19|DANAE |cdelahaye|customer
+2019-10-31 18:22:05|NXP Semiconductors N.V. |cdelahaye|prospect
+2019-10-31 18:25:03|Ofer Communication Engineering Ltd (OCE)|cdelahaye|prospect
+2019-11-04 10:15:38|DRYS TECHNIKI ATEE|cdelahaye|prospect
+2019-11-05 09:33:22|Diehl Controls |cdelahaye|prospect
+2019-11-06 14:57:26|Uncorde Limited |cdelahaye|prospect
+2019-11-06 18:51:52|Centre de recherche Hydro-Québec (IREQ) ||prospect
+2019-11-07 18:29:39|Rheinmetall Electronics GmbH|cdelahaye|prospect
+2019-11-08 18:29:39|NetOP IoT Network Operator|cdelahaye|prospect
+2019-11-10 10:45:17|Pipeline||prospect
+2019-11-12 11:24:02|STEINBAUER Performance Austria GmbH|cdelahaye|prospect
+2019-11-12 11:26:14|Smilics Technologies SL |cdelahaye|prospect
+2019-11-12 15:32:56|MuRata Electronics North America |cdelahaye|customer
+2019-11-13 10:41:01|Goodix Technology, USA|cdelahaye|prospect
+2019-11-13 16:39:44|TESSOLVE EMBEDDED SYSTEMS||prospect
+2019-11-14 11:13:51|Space Dynamics Laboratory |cdelahaye|prospect
+2019-11-14 11:23:54|Center for Public Service Communications (CPSC) |cdelahaye|prospect
+2019-11-14 18:24:57|Lantronix||prospect
+2019-11-15 10:43:48|Argus Innovations|cdelahaye|prospect
+2019-11-18 15:54:23|UNIS Telekom d.d. Mostar|cdelahaye|prospect
+2019-11-22 14:18:04|Perfectum||prospect
+2019-11-22 18:15:58|Centile||prospect
+2019-11-25 09:39:47|University of Oxford|cdelahaye|prospect
+2019-11-25 17:44:18|University of the West of Scotland (UWS) |cdelahaye|prospect
+2019-11-26 10:46:45|Syngenta|cdelahaye|prospect
+2019-11-26 11:25:40|Keysight UK|cdelahaye|customer
+2019-11-29 12:21:20|Powerfleet |cdelahaye|prospect
+2019-11-29 12:23:31|ARIMA COMMUNICATIONS CORP|cdelahaye|prospect
+2019-11-29 14:57:09|Electronic Scientific Engineering Ltd||prospect
+2019-11-29 15:19:59|Geethanjali College of Engineering and Technology ||prospect
+2019-12-02 14:04:42|DefendTex ||prospect
+2019-12-07 13:53:38|Microhard|cdelahaye|prospect
+2019-12-07 13:54:54|Matrix Wave LLC |cdelahaye|prospect
+2019-12-07 13:59:41|STMicroelectronics Italy|cdelahaye|prospect
+2019-12-07 14:02:08|All Services Provider|cdelahaye|prospect
+2019-12-07 14:13:18|Altair Korea|cdelahaye|prospect
+2019-12-07 14:14:43|TechPLEX|cdelahaye|prospect
+2019-12-07 14:16:42|VMware |cdelahaye|prospect
+2019-12-07 14:19:42|Alten |cdelahaye|prospect
+2019-12-07 14:22:46|Digital Shark Technology Pvt Ltd|cdelahaye|prospect
+2019-12-07 14:53:38|IP Directions|cdelahaye|prospect
+2019-12-09 19:39:00|Scalian|cdelahaye|prospect
+2019-12-11 11:42:59|Naval Group|cdelahaye|prospect
+2019-12-12 20:01:29|BC Hydro|cdelahaye|prospect
+2019-12-17 12:19:34|Internet Initiative Japan Inc. ||prospect
+2019-12-17 12:21:35|Pronto AI ||prospect
+2019-12-18 07:54:58|Kryptonite |cdelahaye|prospect
+2019-12-18 10:18:12|Altair Semiconductor France||prospect
+2019-12-19 18:24:33|Vodafone||prospect
+2019-12-23 10:36:02|CPQD|cdelahaye|prospect
+2019-12-27 11:46:49|Dubai police ||prospect
+2019-12-27 11:54:38|TV Globo||prospect
+2019-12-27 14:00:11|Ultrasee.com ||prospect
+2020-01-06 09:46:32|Fiber Village |cdelahaye|prospect
+2020-01-06 09:51:07|UESTC|cdelahaye|prospect
+2020-01-06 09:53:18|George Mason University |cdelahaye|prospect
+2020-01-06 10:29:48|Edgecore Networks |cdelahaye|prospect
+2020-01-06 17:05:43|Supratec||customer
+2020-01-07 11:54:21|Sterlite Technologies |cdelahaye|prospect
+2020-01-07 12:05:37|Amsted Digital Solutions |cdelahaye|prospect
+2020-01-07 15:44:10|Siemens AG||customer
+2020-01-09 11:09:46|Axians|cdelahaye|prospect
+2020-01-09 16:36:11|Université de Poitiers ||prospect
+2020-01-10 10:37:58|BlueTC|cdelahaye|prospect
+2020-01-13 09:15:49|Signals Research Group |cdelahaye|prospect
+2020-01-13 09:18:30|University for Business and Technology (UBT)|cdelahaye|prospect
+2020-01-13 10:38:32|Electrixwave |cdelahaye|prospect
+2020-01-13 10:46:09|Essun|cdelahaye|prospect
+2020-01-13 14:19:41|Indian Institute of Technology (IIT Hyderabad)|cdelahaye|prospect
+2020-01-14 15:43:36|Beijing Zhengjie Technologies Co.,ltd ||prospect
+2020-01-16 10:09:43|Vista Laboratories, Inc. |cdelahaye|prospect
+2020-01-20 11:53:16|DOST ASTI |cdelahaye|prospect
+2020-01-20 11:55:08|Japan Cable Laboratories |cdelahaye|prospect
+2020-01-21 11:06:39|Furukawa Electric ||prospect
+2020-01-22 10:32:57|GE Lighting ||prospect
+2020-01-23 17:18:14|7Layers|cdelahaye|prospect
+2020-01-23 18:00:21|ZITiS |cdelahaye|prospect
+2020-01-24 10:48:48|Singapore University of Technology and Design|cdelahaye|prospect
+2020-01-24 10:52:56|ELTECH|cdelahaye|prospect
+2020-01-27 10:04:03|Telular, Inc. |cdelahaye|prospect
+2020-01-27 10:06:24|Raitec |cdelahaye|prospect
+2020-01-28 09:33:07|Radio Analog Micro Electronics s.r.l.|cdelahaye|prospect
+2020-01-28 16:39:14|University of Trento ||prospect
+2020-01-28 16:44:45|SIRADEL ||prospect
+2020-01-28 17:28:26|Philips||prospect
+2020-01-29 11:00:18|Valeo peiker acustic GmbH|cdelahaye|prospect
+2020-01-29 17:02:06|Selint srl|cdelahaye|prospect
+2020-01-30 16:20:42|Verint Systems BV ||prospect
+2020-01-30 16:22:52|United Technologies Research Centre ||prospect
+2020-01-31 15:52:57|Academia|cdelahaye|prospect
+2020-02-03 17:42:00|NSO Group |cdelahaye|prospect
+2020-02-03 17:51:28|ComGu |cdelahaye|prospect
+2020-02-04 11:00:12|Parrot Trading Shenzhen Ltd.   |cdelahaye|prospect
+2020-02-05 15:39:30|ENGIE SOLUTIONS INFRACOM |cdelahaye|prospect
+2020-02-05 18:20:27|Sierra Wireless (Asia Pacific) Limited, Taiwan Branch|cdelahaye|customer
+2020-02-06 09:50:14|FIT Tecnologia|cdelahaye|prospect
+2020-02-06 10:24:14|AIE5G |cdelahaye|prospect
+2020-02-06 16:10:37|Air France||prospect
+2020-02-07 12:02:28|JCP Connect|cdelahaye|prospect
+2020-02-07 16:56:51|Cell & Sat|cdelahaye|prospect
+2020-02-10 10:12:39|Lotus Wireless |cdelahaye|prospect
+2020-02-10 11:22:30|Panasonic Appliances|cdelahaye|customer
+2020-02-10 16:30:55|Secunet |cdelahaye|prospect
+2020-02-10 16:33:02|T-Systems International GmbH|cdelahaye|prospect
+2020-02-10 16:34:48|RSA «Galileosky», LLC |cdelahaye|prospect
+2020-02-13 10:30:26|SES TechCom S.A.||customer
+2020-02-13 11:07:38|LED Roadway Lighting|cdelahaye|prospect
+2020-02-17 10:18:43|Anova|cdelahaye|prospect
+2020-02-17 10:21:05|OPPO|cdelahaye|prospect
+2020-02-17 18:54:22|Axioma|cdelahaye|prospect
+2020-02-18 16:12:05|Converged Technology Networks |cdelahaye|prospect
+2020-02-19 15:51:42|XCOM ||prospect
+2020-02-19 16:04:11|DISYS||prospect
+2020-02-19 16:45:25|GE Aviation ||prospect
+2020-02-20 11:14:39|Noblis |cdelahaye|prospect
+2020-02-21 10:34:45|WELLREPAIR OU|cdelahaye|prospect
+2020-02-21 10:44:02|Paragon Innovations, Inc. |cdelahaye|prospect
+2020-03-02 21:45:38|Blue Danube Systems|marouan.bc|customer
+2020-03-03 08:32:23|SyChip Electronic Technology (Shanghai) Ltd.|marouan.bc|customer
+2020-03-10 15:55:12|Eurecom|marouan.bc|customer
+2020-03-11 14:31:37|Space Hellas S.A.|marouan.bc|customer
+2020-03-11 15:45:26|SCEYE Sàrl|marouan.bc|customer
+2020-03-20 12:40:45|Faster Mobile Engagement Sweden AB|marouan.bc|customer
+2020-03-23 09:57:12|ss7ware|marouan.bc|customer
+2020-03-23 11:41:34|Neratec Solutions AG|marouan.bc|customer
+2020-04-03 09:35:35|UHW solutions|marouan.bc|customer
+2020-04-21 14:38:48|Qualcomm Communication Technologies (Shenzhen) Co., Ltd.|marouan.bc|customer
+2020-05-13 23:43:28|Idaho National Laboratory|marouan.bc|customer
+2020-05-14 23:01:29|TRACE - TEC VIETNAM Company Limited |marouan.bc|customer
+2020-06-10 10:29:04|WEBDYN|marouan.bc|customer
+2020-06-16 12:21:27|mwnts|marouan.bc|customer
+2020-06-17 07:33:33|Cybertec Pty Ltd|marouan.bc|customer
+2020-07-20 15:18:34|CommAgility Ltd||customer
+2020-07-28 15:35:20|Evolution Time Critical|marouan.bc|customer
+2020-07-28 17:07:18|Celona, Inc.|marouan.bc|customer
+2020-08-04 10:43:37|Vectrus Mission Solutions Corporation|marouan.bc|customer
+2020-08-05 14:54:48|yadro|marouan.bc|customer
+2020-08-12 16:48:37|Säkerhetspolisen|marouan.bc|customer
+2020-08-17 17:02:51|SumUp Services GmbH|marouan.bc|customer
+2020-08-19 17:23:41|Veea Systems LTD|marouan.bc|customer
+2020-08-24 07:21:10|Margmidlunarfelagid Frodi|marouan.bc|customer
+2020-08-25 09:02:01|Goodix||customer
+2020-09-04 20:24:09|avista coorporation|marouan.bc|customer
+2020-09-11 12:42:22|Mimomax Wireless Ltd|marouan.bc|customer
+2020-09-14 11:02:19|G3 Technologies, Inc. |marouan.bc|customer
+2020-09-22 13:38:39|Nurlink Technology Corp||customer
+2020-09-23 12:01:30|Qualcomm Semiconductor Limited |marouan.bc|customer
+2020-09-23 14:43:16|Syntacore||customer
+2020-10-01 12:13:25|Technische Universität Darmstadt|marouan.bc|customer
+2020-10-01 15:11:11|Ezlo Innovation LLC |kboutihane|customer
+2020-10-09 10:04:00|Netmore||customer
+2020-10-13 10:03:58|PHY Wireless||customer
+2020-10-13 13:58:39|Luxembourg Online SA|marouan.bc|customer
+2020-10-21 17:55:16|KEYSIGHT TECHNOLOGIES Spain||customer
+2020-10-23 09:56:36|Mobelium||customer
+2020-10-24 12:48:45|Herbert Engineering Pty Ltd||customer
+2020-10-30 12:15:15|EMPIRIX ITALY SRL|marouan.bc|customer
+2020-11-03 09:25:03|Idaho National Laboratory WTB Cellular Team|fvillanese|customer
+2020-11-09 17:07:53|Noregon Systems Inc.|marouan.bc|customer
+2020-11-10 16:52:20|L3 Communications System – East|marouan.bc|customer
+2020-11-12 09:52:01|TMYTEK|nnikaein|prospect
+2020-11-15 13:15:39|Palo Alto Networks, Inc.||customer
+2020-11-16 14:27:54|MAORE MOBILE||customer
+2020-11-20 09:54:16|Cobham Antenna Systems|marouan.bc|customer
+2020-11-23 09:29:29|CaptionCall|marouan.bc|customer
+2020-11-26 10:19:51|MitraStar Technology Corporation|marouan.bc|customer
+2020-11-26 16:04:04|Ostbayerische Technische Hochschule Amberg-Weiden (OTH-AW)||customer
+2020-11-27 15:55:49|DISCOVI SYSTEMY RESEARCH AND PRODUCTION ENTERPRISE LIMITED|marouan.bc|customer
+2020-12-03 11:24:51|Satellite Applications Catapult Ltd|marouan.bc|customer
+2020-12-07 14:54:56|Weidmüller Interface GmbH & Co. KG|marouan.bc|customer
+2020-12-09 09:18:40|Fraunhofer IML|marouan.bc|customer
+2020-12-09 16:41:52|rapid.space|marouan.bc|customer
+2020-12-11 13:36:01|Quectel Rescarch & Development Center Europe Co. |marouan.bc|customer
+2020-12-11 13:48:12|InterDigital Europe, Ltd.|marouan.bc|customer
+2020-12-16 08:33:00|Excelerate Technology Ltd|marouan.bc|customer
+2020-12-16 17:55:00|Laird Connectivity|marouan.bc|customer
+2020-12-17 14:37:52|Divigraph (Pty) Ltd||customer
+2021-01-05 19:17:47|FreedomFi, Inc|kboutihane|customer
+2021-01-12 15:11:05|NTS|marouan.bc|customer
+2021-01-12 15:19:14|bcpcouncil|marouan.bc|customer
+2021-01-15 10:12:40|Sony Mobile Communications Corporation|fvillanese|customer
+2021-01-19 16:16:49|Siemens Industry, Inc.|nnikaein|prospect
+2021-01-20 13:31:01|Positive Technologies Czech Republic s.r.o||customer
+2021-01-21 09:58:48|Expway licenses with Ciphering|fvillanese|customer
+2021-01-22 16:12:40|Mediatek India|nnikaein|customer
+2021-01-26 09:33:16|Mueller Co.|marouan.bc|customer
+2021-01-29 11:25:30|Gogo Business Aviation|marouan.bc|customer
+2021-02-08 10:00:08|Alpha hope|hbilel|customer
+2021-02-08 17:49:02|Siemens Technology and Services Private Limited|marouan.bc|customer
+2021-02-10 14:12:48|Unitron NV||customer
+2021-02-12 11:10:08|4MOD Technology|marouan.bc|customer
+2021-02-17 09:58:55|Ligado Networks|marouan.bc|customer
+2021-02-18 09:33:39|linkwen|hbilel|customer
+2021-02-23 19:30:11|PentHertz|kboutihane|customer
+2021-02-24 14:48:56|RAKOMM SL|marouan.bc|customer
+2021-02-24 16:11:17|RAKOMM|nnikaein|customer
+2021-03-01 17:37:44|Oceus Networks|marouan.bc|customer
+2021-03-03 12:02:32|Wessex Internet Limited |marouan.bc|customer
+2021-03-04 17:49:40|Landis+Gyr Oy|marouan.bc|customer
+2021-03-08 17:15:49|Calian Advanced Technologies|marouan.bc|customer
+2021-03-10 10:22:02|Ultra Intelligence & Communications|marouan.bc|customer
+2021-03-15 16:41:22|MEC ELECTRONICS ENTWICKLUNG UND PRODUKTION GMBH |marouan.bc|customer
+2021-03-17 10:37:23|Sunwave|nnikaein|customer
+2021-03-22 15:15:10|Ateme SA|marouan.bc|customer
+2021-03-22 16:44:15|Withings|kboutihane|customer
+2021-03-24 09:40:45|Molex CVS Bochum GmbH|marouan.bc|customer
+2021-03-25 15:53:24|Arca Telecom|marouan.bc|customer
+2021-03-26 12:26:41|Safe IOT||customer
+2021-03-30 16:37:03|Riedel Communications GmbH|elena.spinelli|customer
+2021-03-30 18:12:46|Multitech|elena.spinelli|customer
+2021-04-01 16:19:47|NTTData||customer
+2021-04-02 11:24:10|Danfoss|elena.spinelli|customer
+2021-04-02 11:40:13|Microsoft China|marouan.bc|customer
+2021-04-06 16:00:18|View.com|kboutihane|customer
+2021-04-06 18:25:55|Trane Technologies||customer
+2021-04-07 12:01:26|Nimble Wireless|elena.spinelli|customer
+2021-04-08 09:27:16|Perspecta Labs ||customer
+2021-04-12 13:41:19|•	Centre Tecnològic de Telecomunicacions de Catalunya (CTTC) - SMARTECH Department|kboutihane|customer
+2021-04-22 15:12:14|Dorset Council|elena.spinelli|customer
+2021-04-28 09:36:09|IP Infusion|elena.spinelli|customer
+2021-04-28 14:49:56|PanGraNet |elena.spinelli|customer
+2021-04-29 10:40:27|Ipinfusion|kboutihane|customer
+2021-05-03 09:42:13|Universität der Bundeswehr München|elena.spinelli|customer
+2021-05-10 14:54:27|Mobile Group |elena.spinelli|customer
+2021-05-11 10:58:44|Xilinx|marouan.bc|prospect
+2021-05-12 14:30:58|Advanced Computer Concepts |elena.spinelli|customer
+2021-05-18 14:59:41|Accelleran|elena.spinelli|customer
+2021-05-18 15:08:30|GibFibre Ltd.|elena.spinelli|customer
+2021-05-19 14:10:44|Utility Connect B.V.|elena.spinelli|customer
+2021-05-26 15:22:14|ZOI ConTech|elena.spinelli|customer
+2021-05-26 17:24:31|GRDF |elena.spinelli|customer
+2021-05-31 17:56:38|Amarisoft graveyard|hbilel|customer
+2021-06-01 10:28:49|Corning Optical Communications Wireless LTD (Israel)|elena.spinelli|customer
+2021-06-07 10:08:17|Microsoft Support Group|nnikaein|customer
+2021-06-07 18:02:14|SAGEMCOM ITALIA S.P.A. A SOCIO UNICO||customer
+2021-06-08 15:40:57|NMIS |marouan.bc|customer
+2021-06-10 18:52:27|US Navy|fvillanese|customer
+2021-06-11 16:48:24|Setelia|elena.spinelli|customer
+2021-06-15 15:00:13|EIGHT BELLS LTD GREEK BRANCH|elena.spinelli|customer
+2021-06-17 09:02:10|SEMICOMM Technology Co., Ltd.||customer
+2021-06-18 15:36:57|Iquadrat Informatica|elena.spinelli|customer
+2021-06-22 15:34:55|Ethon Shield||customer
+2021-07-01 10:36:26|HFR Inc.||prospect
+2021-07-08 09:55:07|Testforce|elena.spinelli|customer
+2021-07-13 09:35:59|SIIT S.c.p.A.|elena.spinelli|customer
+2021-07-16 10:53:57|ST Engineering iDirect (Ireland) Ltd.|elena.spinelli|customer
+2021-07-16 17:22:04|Pullberg Company|marouan.bc|customer
+2021-07-22 08:07:44|BT|elena.spinelli|customer
+2021-07-26 16:10:06|AUSY Technologies Romania SRL|elena.spinelli|customer
+2021-07-27 16:17:31|Evosoft|elena.spinelli|customer
+2021-07-27 16:30:54|Free|epuig|prospect
+2021-07-29 17:24:44|Meadow Registry, LLC||customer
+2021-07-30 16:21:31|Siemens Corp.|elena.spinelli|customer
+2021-08-06 11:10:43|Iset Telecom srl|elena.spinelli|customer
+2021-08-12 20:43:19|Neutroon Technologies S.L.|kboutihane|customer
+2021-08-13 17:19:28|Ecrio Inc|kboutihane|customer
+2021-08-13 19:03:33|lps.ruhr-uni-bochum|kboutihane|prospect
+2021-08-16 13:56:02|Virginia Commonwealth University ||customer
+2021-08-19 10:06:03|IntelliDesign|elena.spinelli|customer
+2021-08-20 14:56:51|MESHLINK CO., LTD.||customer
+2021-08-26 10:42:05|df-mp PartG mbB|elena.spinelli|customer
+2021-08-26 14:47:46|Universitaat der Bundeswehr München|elena.spinelli|customer
+2021-09-02 17:37:37|Ateros Systems Ltd.||customer
+2021-09-06 11:15:03|Nordic Semiconductor ASA (Norway)|marouan.bc|customer
+2021-09-07 15:29:52|Dräger Safety AG & Co KGaA|marouan.bc|customer
+2021-09-08 13:14:44|Funk-Electronic Piciorgros GmbH||customer
+2021-09-10 13:48:04|Tesla (Germany)|marouan.bc|customer
+2021-09-15 17:41:47|University of Maryland|elena.spinelli|customer
+2021-09-17 09:30:46|VayuAI Corp|marouan.bc|customer
+2021-09-17 17:01:22|Novatech Ltd. |elena.spinelli|customer
+2021-09-17 17:11:14|Katela Networks Ltd.|elena.spinelli|customer
+2021-09-20 10:29:46|Tortue LLC|elena.spinelli|customer
+2021-09-21 18:45:48|Two Six Technologies||customer
+2021-09-22 15:24:15|(aq) limited trading as aql||customer
+2021-09-22 15:57:34|Fisker Group Inc||customer
+2021-09-23 10:51:28|Virginia Tech Applied Research Corporation||customer
+2021-09-29 13:16:11|NAVAL POST GRADUATE SCHOOL||customer
+2021-09-29 13:24:10|Toulouse INP ||customer
+2021-09-29 14:10:54|Media Tek (Shanghai) Inc.||customer
+2021-09-29 14:11:10|Media Tek (Beijing) Inc.||customer
+2021-09-30 16:39:50|Google  (Paralink)|fvillanese|customer
+2021-09-30 16:41:00|TTC (Paralink)|fvillanese|customer
+2021-10-01 15:09:27|Frankfurt University of Applied Sciences|elena.spinelli|customer
+2021-10-08 14:26:25|Finnish Defence Research Agency||customer
+2021-10-12 10:18:11|Thales DIS AIS USA LLC|elena.spinelli|customer
+2021-10-14 10:26:38|Università degli Studi di Genova|elena.spinelli|customer
+2021-10-14 15:41:29|Nokia Slovakia a.s.||customer
+2021-10-14 16:15:33|Fraunhofer IOSB-AST||customer
+2021-10-14 17:57:26|Qualcomm Singapore|nnikaein|customer
+2021-10-15 09:50:50|Mugler AG|elena.spinelli|customer
+2021-10-18 14:09:49|AccelerComm Ltd|elena.spinelli|customer
+2021-10-20 09:41:23|Neti LTD|elena.spinelli|customer
+2021-10-21 14:49:36|ARRIS TECHNOLOGY SHENZHEN CO LTD||customer
+2021-10-21 17:31:45|floLive|elena.spinelli|customer
+2021-10-22 12:01:48|Atmosphere GmbH||customer
+2021-10-22 14:24:56|Defence Science and Technology Group||customer
+2021-10-27 18:58:31|IMEC vzw|elena.spinelli|customer
+2021-11-05 15:16:45|Zetier|psansen|customer
+2021-11-10 11:25:27|Atlas Copco Airpower NV|elena.spinelli|customer
+2021-11-12 11:52:57|Flare Wireless|elena.spinelli|customer
+2021-11-12 15:00:18|Shanghai Cygnus Semiconductor||customer
+2021-11-12 16:06:54|Flare Systems|hbilel|customer
+2021-11-12 16:23:54|SGS Digital Trust Services GmbH|elena.spinelli|customer
+2021-11-12 17:07:59|FAST Spa|elena.spinelli|customer
+2021-11-18 09:54:28|Radboud University Nijmegen|elena.spinelli|customer
+2021-11-19 14:08:49|TU Kaiserslautern|elena.spinelli|customer
+2021-11-26 16:02:36|Elsys Equipamentos Eletrônicos Ltda.|elena.spinelli|customer
+2021-11-29 10:03:45|ALPS ELECTRIC IRELAND LTD|elena.spinelli|customer
+2021-11-29 10:11:42|SEKI AOI TECHNO CO.,LTD|elena.spinelli|customer
+2021-11-29 11:50:47|Cellium Technologies, Ltd.|elena.spinelli|customer
+2021-11-30 10:40:23|Signaltron Systems Pvt Ltd|elena.spinelli|customer
+2021-12-01 15:46:59|Paradox Engineering SA – MinebeaMitsumi Group||customer
+2021-12-01 15:58:33|MATECH d.o.o.|elena.spinelli|customer
+2021-12-03 09:19:36|Samsara Networks Inc|kboutihane|prospect
+2021-12-06 10:38:40|Central MD iHub (BAH)|elena.spinelli|customer
+2021-12-06 15:09:16|Omniprophis||customer
+2021-12-07 17:01:48|AXIANS SYSOCO|elena.spinelli|customer
+2021-12-07 17:43:14|Smith Myers Communications Ltd.|elena.spinelli|customer
+2021-12-08 11:52:09|Nisko Technologies Ltd.||customer
+2021-12-09 12:03:14|Philips Innovation Services|elena.spinelli|customer
+2021-12-09 12:06:01|Kontron Transportation France S.A.S|elena.spinelli|customer
+2021-12-09 12:30:25|Radiotest LLC|elena.spinelli|customer
+2021-12-09 14:31:34|Base2 Engineering, a BLUEHALO company (Parsons)|elena.spinelli|customer
+2021-12-10 10:03:54|Transaction Network Services, Inc||customer
+2021-12-10 16:28:48|Qirion BV||customer
+2021-12-13 13:45:43|NEXTY Electronics Corporation|elena.spinelli|customer
+2021-12-13 17:30:38|TU Delft|elena.spinelli|customer
+2021-12-15 15:12:08|Charon Technologies, LLC|elena.spinelli|customer
+2021-12-16 09:40:26|eBOS Technologies Ltd||customer
+2021-12-16 11:58:37|Nasjonal Sikkerhetsmyndighet||customer
+2021-12-16 15:13:30|ADAPTIT S.A.||customer
+2021-12-17 11:59:41|CNLABS Test Services Pvt. Ltd.|elena.spinelli|customer
+2021-12-21 10:41:01|APPINFO SA (PTY) LTD||customer
+2022-01-03 09:54:01|ADVA Israel|elena.spinelli|customer
+2022-01-03 10:02:44|The Pennsylvania State University|elena.spinelli|customer
+2022-01-03 17:42:10|tdcomm||customer
+2022-01-05 11:58:28|NEC Networks & System Integration Corporation|elena.spinelli|customer
+2022-01-07 10:53:16|ElectronicPrecepts|elena.spinelli|customer
+2022-01-10 17:45:23|Philips RS North America LLC|elena.spinelli|customer
+2022-01-13 13:53:56|Skylo Technologies Finland||customer
+2022-01-13 14:16:57|Comnovo GmbH||customer
+2022-01-14 11:04:11|Neutral Wireless Limited|elena.spinelli|customer
+2022-01-17 12:08:17|IMMERSION|elena.spinelli|customer
+2022-01-17 17:43:25|RunEL NGMT Ltd||customer
+2022-01-18 10:22:18|Optitel Pty. Ltd.|elena.spinelli|customer
+2022-01-19 12:20:57|duagon Germany GmbH|elena.spinelli|customer
+2022-01-19 17:30:43|bytes.co.uk|kboutihane|customer
+2022-01-20 11:35:59|NowSecure Inc|elena.spinelli|customer
+2022-01-20 16:16:11|CSG Solution (Thailand) Co.,Ltd||customer
+2022-01-21 15:39:09|Radio Analog Micro Electronics srl||customer
+2022-01-24 11:11:15|Optitel Pty. Ltd|marouan.bc|customer
+2022-01-25 10:30:36|Picocom|elena.spinelli|customer
+2022-01-26 13:07:21|KORYS Technologies||customer
+2022-01-27 10:14:04|Government Communications Bureau|elena.spinelli|customer
+2022-01-31 10:28:15|Morgan State University|elena.spinelli|customer
+2022-01-31 16:54:13|ASOCIACIÓN CENTRO TECNOLÓGICO CEIT|marouan.bc|customer
+2022-02-04 11:28:48|Damon Motors Inc.|elena.spinelli|customer
+2022-02-09 14:18:34|COMCYBERGEND|elena.spinelli|customer
+2022-02-14 14:20:01|SKY|elena.spinelli|customer
+2022-02-17 14:42:39|One Network B.V.|elena.spinelli|customer
+2022-02-21 17:27:48|SPECTRE LTD.|marouan.bc|customer
+2022-02-22 10:17:18|NIIR|fvillanese|customer
+2022-02-23 07:54:17|Pegatron|hbilel|customer
+2022-02-24 17:09:29|Universidad Técnica del Norte (Laboratorio de Telecomunicaciones)|elena.spinelli|customer
+2022-02-24 17:29:08|TECNALIA|elena.spinelli|customer
+2022-03-01 10:26:34|SYRTEM S.a.r.l.|elena.spinelli|customer
+2022-03-07 13:46:24|Sagemcom USA LLC|elena.spinelli|customer
+2022-03-08 14:00:58|Sony Europe B.V.|elena.spinelli|customer
+2022-03-09 15:33:17|Telebit|elena.spinelli|customer
+2022-03-11 12:21:20|Atel Teknoloji ve Savunma San. A.S|elena.spinelli|customer
+2022-03-14 11:46:06|Qualcomm (Shanghai) Co. Ltd|elena.spinelli|customer
+2022-03-15 10:23:23|Université de Lorraine|elena.spinelli|customer
+2022-03-15 10:46:58|Smart Tech Solutions|elena.spinelli|customer
+2022-03-15 13:55:42|boxxe ltd|elena.spinelli|customer
+2022-03-15 16:25:08|Intel PTK Israel|elena.spinelli|customer
+2022-03-16 15:12:35|MicroEJ S.A.|elena.spinelli|customer
+2022-03-17 17:10:46|Invite Systems SRL|elena.spinelli|customer
+2022-03-22 09:16:50|Lockheed Martin Rotary & Mission Systems|marouan.bc|customer
+2022-03-23 12:41:46|NEC Asia Pacific Pte Ltd|elena.spinelli|customer
+2022-03-30 10:30:38|NEC Laboratories Europe GmbH|elena.spinelli|customer
+2022-03-30 11:50:05|Rockwell-Collins France|elena.spinelli|customer
+2022-04-01 16:20:16|PBE Europe Ltd|elena.spinelli|customer
+2022-04-04 16:53:36|Radiocomp Aps|elena.spinelli|customer
+2022-04-07 17:00:47|Avista Edge, Inc.|elena.spinelli|customer
+2022-04-08 11:29:40|Cambridge Mobile Telematics|elena.spinelli|customer
+2022-04-12 14:49:30|QA Cafe|elena.spinelli|customer
+2022-04-14 11:48:33|Virtus|elena.spinelli|customer
+2022-04-15 17:57:36|Opticoms GmbH|elena.spinelli|customer
+2022-04-19 12:44:11|VAMK University of Applied Science|elena.spinelli|customer
+2022-04-19 17:37:53|ASU WISCA|elena.spinelli|customer
+2022-04-20 15:37:30|Tidalwave Technologies Private Limited|elena.spinelli|customer
+2022-04-22 10:38:04|EASYMETERING S.A. ECUADOR|elena.spinelli|customer
+2022-04-25 14:59:25|NOFFZ Technologies (Suzhou) Co.,Ltd|elena.spinelli|customer
+2022-04-25 15:28:44|Apple Mobile B.V. & Co. KG|elena.spinelli|customer
+2022-04-25 22:32:57|Jaguar Network|kboutihane|customer
+2022-04-26 17:52:06|Canyon AeroConnect|elena.spinelli|customer
+2022-04-27 14:41:59|Noffz Technologies USA, Inc|elena.spinelli|customer
+2022-04-28 09:44:19|FLARE SYSTEMS,Ltd|marouan.bc|customer
+2022-04-29 15:13:10|Datto, Inc.|elena.spinelli|customer
+2022-04-29 17:54:27|JOHN MEZZALINGUA ASSOCIATES LLC. d\b\a JMA|elena.spinelli|customer
+2022-04-30 17:50:47|BubbleRAN|marouan.bc|customer
+2022-05-03 14:36:40|Adinusa International Ltd|elena.spinelli|customer
+2022-05-04 09:26:33|The Uganda Institute of Information & Communication Technology|marouan.bc|customer
+2022-05-06 11:01:56|Mercedes-Benz AG|elena.spinelli|customer
+2022-05-09 10:03:57|Communication Technology Services, LLC|elena.spinelli|customer
+2022-05-09 12:42:59|ZF Friedrichshafen AG|elena.spinelli|customer
+2022-05-09 19:08:26|ROLLING WIRELESS FRANCE|elena.spinelli|customer
+2022-05-12 11:00:52|Valeo Internal Automotive Software|elena.spinelli|customer
+2022-05-12 11:06:04|Kimcell|elena.spinelli|customer
+2022-05-12 15:14:04|North Point Defense|elena.spinelli|customer
+2022-05-12 15:48:11|DFKI GmbH|elena.spinelli|customer
+2022-05-16 10:02:52|AUDEN TECHNO CORP.|elena.spinelli|customer
+2022-05-17 09:46:33|Lyft, Inc.|elena.spinelli|customer
+2022-05-19 17:59:49|Old Dominion University|elena.spinelli|customer
+2022-05-20 10:07:50|Sierra Wireless India Pvt Ltd|elena.spinelli|customer
+2022-05-24 10:29:19|APSI|psansen|customer
+2022-05-30 16:35:12|Fundación Centro Tecnolóxico de Telecomunicacións de Galicia|elena.spinelli|customer
+2022-06-03 09:51:51|Virginia Modeling, Analysis Simulation Center|elena.spinelli|customer
+2022-06-08 09:10:35|University of Bedfordshire|elena.spinelli|customer
+2022-06-10 11:20:36|E-SKY ELECTRONIC TECHNOLOGY., JSC|elena.spinelli|customer
+2022-06-10 12:24:29|RISE Research Institutes of Sweden AB|elena.spinelli|customer
+2022-06-13 15:00:16|Big Ocean teknoloji dis tic. AS|elena.spinelli|customer
+2022-06-14 15:14:04|Enedis|elena.spinelli|customer
+2022-06-15 18:09:24|Distron|elena.spinelli|customer
+2022-06-16 10:27:55|Panasonic Avionics Corp|elena.spinelli|customer
+2022-06-17 10:50:39|Gogo Inc.|elena.spinelli|customer
+2022-06-17 14:38:47|MASER TECHNOLOGY GROUP PTY LTD|elena.spinelli|customer
+2022-06-21 17:02:13|Intertek Canada|elena.spinelli|customer
+2022-06-23 12:08:40|LONGHORNS LABS INDIA PVT. LTD.|elena.spinelli|customer
+2022-06-24 10:30:57|Teko Telecom s.r.l.|elena.spinelli|customer
+2022-06-27 15:06:15|FIRECELL|elena.spinelli|customer
+2022-06-29 16:49:40|Universidad de Zaragoza|elena.spinelli|customer
+2022-07-06 15:45:29|nbnco.com.au|kboutihane|customer
+2022-07-07 10:37:22|Samsung Electronics Co. Ltd Korea|elena.spinelli|customer
+2022-07-07 15:36:58|Chelton Limited|elena.spinelli|customer
+2022-07-12 10:46:11|Private Tech, Inc.|elena.spinelli|customer
+2022-07-12 17:00:11|maintech GmbH|elena.spinelli|customer
+2022-07-13 14:29:56|Solutions Ambra inc.|elena.spinelli|customer
+2022-07-15 09:41:54|Wi-Tronix|elena.spinelli|customer
+2022-07-18 11:41:31|Faraday Future|elena.spinelli|customer
+2022-07-18 14:49:49|STMicroelectronics Egypt|elena.spinelli|customer
+2022-07-18 15:10:52|THALES ALENIA SPACE ITALIA|elena.spinelli|customer
+2022-07-18 15:33:17|NCC GROUP SECURITY SERVICES LIMITED|elena.spinelli|customer
+2022-07-19 10:49:59|Advantest America, Inc|elena.spinelli|customer
+2022-07-19 12:14:40|DXOMARK IMAGE LABS|elena.spinelli|customer
+2022-07-19 19:42:49|Rincon Research|elena.spinelli|customer
+2022-07-21 15:28:33|bsi.bund.de|kboutihane|prospect
+2022-07-21 16:04:43|UNIVERSITAT POLITECNICA DE CATALUNYA|kboutihane|prospect
+2022-08-10 11:36:55|Astana IT University|elena.spinelli|customer
+2022-08-10 14:17:55|Dynamic Digital Technology Pvt Ltd|elena.spinelli|customer
+2022-08-11 10:36:17|Tata Elxsi|elena.spinelli|customer
+2022-08-11 18:29:27|ATEL TEKNOLOJİ VE SAVUNMA SANAYİ A.Ş|elena.spinelli|customer
+2022-08-12 15:11:33|Active Electronics High Wycombe|elena.spinelli|customer
+2022-08-16 11:42:24|Military Communications Institute - National Research Institute|elena.spinelli|customer
+2022-08-18 11:07:54|Allot LTD|elena.spinelli|customer
+2022-08-23 13:32:24|Telstra Radio Lab|marouan.bc|customer
+2022-08-24 08:30:34|MADENA OTOMOTIV INSAAT ELEKTRONIK TIC LTD|marouan.bc|customer
+2022-08-25 09:16:08|INTEL MOBILE COMM ISRAEL|marouan.bc|customer
+2022-08-31 10:22:52|Bundesamt für Sicherheit in der Informationstechnik|elena.spinelli|customer
+2022-09-01 15:46:39|ALSTOM Transport Information Solution BELGIUM|elena.spinelli|customer
+2022-09-02 17:46:36|Pacton Technologies Sdn Bhd|elena.spinelli|customer
+2022-09-06 15:01:14|Hochschule Koblenz|elena.spinelli|customer
+2022-09-07 10:21:33|ESPOCH|elena.spinelli|customer
+2022-09-09 16:37:30|Azimut Solution LLP|elena.spinelli|customer
+2022-09-12 13:56:30|Dedrone GmbH|elena.spinelli|customer
+2022-09-12 17:23:46|Freebox SAS|elena.spinelli|customer
+2022-09-19 12:07:14|EIP Europe LLP|elena.spinelli|customer
+2022-09-19 12:40:53|Fraunhofer-Institut für Offene Kommunikationssysteme|elena.spinelli|customer
+2022-09-19 13:13:20|University of Ljubljana|elena.spinelli|customer
+2022-09-19 15:33:56|aeroLiFi GmbH|elena.spinelli|customer
+2022-09-19 15:35:27|Technische Universität Dresden|elena.spinelli|customer
+2022-09-20 11:47:08|FiSCHER Akkumulatorentechnik GmbH|elena.spinelli|customer
+2022-09-20 11:53:22|ARRIS Group India Pvt Ltd|elena.spinelli|customer
+2022-09-20 15:47:06|UAB Glosendas|elena.spinelli|customer
+2022-09-22 14:41:25|GenComm, Inc|elena.spinelli|customer
+2022-09-23 16:41:54|Hytera Mobilfunk GmbH|elena.spinelli|customer
+2022-09-26 09:54:46|Bosch Global Software Technologies Private Limited|elena.spinelli|customer
+2022-09-26 10:50:00|Cisco Systems (Italy) |elena.spinelli|customer
+2022-09-26 11:11:48|SP Electron llp.|elena.spinelli|customer
+2022-09-27 12:12:45|NEC Iberica S.L|elena.spinelli|customer
+2022-09-28 10:07:18|Inmarsat Global Ltd|elena.spinelli|customer
+2022-09-28 16:28:54|Parsons Corporation|elena.spinelli|customer
+2022-09-29 18:13:12|UK Secure Government|elena.spinelli|customer
+2022-09-30 15:50:43|STMicroelectronics LTDA|elena.spinelli|customer
+2022-10-03 16:21:58|Weaccess Group|elena.spinelli|customer
+2022-10-04 09:44:29|UNIVERSIDAD POLITÉCNICA DE MADRID|elena.spinelli|customer
+2022-10-04 14:25:07|Vivid Hosting LLC|elena.spinelli|customer
+2022-10-04 18:32:05|FREKENCES|elena.spinelli|customer
+2022-10-05 15:36:29|Google Switzerland GmbH|elena.spinelli|customer
+2022-10-10 10:03:49|PINSIGHTS Inc.|elena.spinelli|customer
+2022-10-11 12:31:25|SORBONNE UNIVERSITÉ|elena.spinelli|customer
+2022-10-11 12:45:55|FirstPoint-mg|elena.spinelli|customer
+2022-10-12 17:41:44|National  Telecom  PLC|kboutihane|customer
+2022-10-17 11:31:48|STMicroelectronics, Inc.|elena.spinelli|customer
+2022-10-18 10:51:55|Parsons Govt. Svcs.|elena.spinelli|customer
+2022-10-18 14:42:55|Haivision|elena.spinelli|customer
+2022-10-19 09:04:23|Arcadyan|fvillanese|customer
+2022-10-19 12:20:35|Wipro Limited|elena.spinelli|customer
+2022-10-19 14:48:41|Opengear|elena.spinelli|customer
+2022-10-24 11:16:13|Tietoevry Sweden Support Services AB|elena.spinelli|customer
+2022-10-24 11:23:59|Rolling Wireless Hungary Kft.|elena.spinelli|customer
+2022-10-24 14:26:09|IQSHOP OE|elena.spinelli|customer
+2022-10-25 10:38:44|Sasken Technologies Ltd|elena.spinelli|customer
+2022-10-25 10:48:13|test2|kboutihane|customer
+2022-10-25 12:05:37|Dust Mobile|elena.spinelli|customer
+2022-10-26 10:05:48|Meta Platforms|elena.spinelli|customer
+2022-10-31 14:33:50|UNIVERSITE DE VERSAILLES SAINT QUENTIN EN YVELINES (UVSQ)|elena.spinelli|customer
+2022-11-02 12:32:35|Suez Smart Solutions|elena.spinelli|customer
+2022-11-03 09:47:45|Avacomtech Inc.|elena.spinelli|customer
+2022-11-07 10:18:27|DIRAC|elena.spinelli|customer
+2022-11-07 17:43:08|Sanchar Telesystems Limited|elena.spinelli|customer
+2022-11-08 16:22:41|BTE|elena.spinelli|customer
+2022-11-10 10:14:11|InterOperability Laboratory|elena.spinelli|customer
+2022-11-10 10:17:47|Compliance Engineering Ireland Ltd|elena.spinelli|customer
+2022-11-15 10:34:36|NED University of Engineering & Technology|elena.spinelli|customer
+2022-11-15 12:20:23|ICCAS - Universität Leipzig|elena.spinelli|customer
+2022-11-16 11:38:46|Technische Hochschule Deggendorf|elena.spinelli|customer
+2022-11-16 15:45:50|HMS Networks|elena.spinelli|customer
+2022-11-17 09:46:26|Landis+Gyr Limited|elena.spinelli|customer
+2022-11-17 09:59:22|Constellation Technologies and Operations|elena.spinelli|customer
+2022-11-18 09:20:35|BT (BT Security Team)|marouan.bc|customer
+2022-11-21 13:28:55|University of Prishtina - Faculty of Electrical and Computer Engineering|elena.spinelli|customer
+2022-11-22 16:49:14|Theben AG|elena.spinelli|customer
+2022-11-28 10:09:26|Intelsat General Communications, LLC|elena.spinelli|customer
+2022-11-30 12:00:41|"VMS-SIRS" SRL|elena.spinelli|customer
+2022-12-02 11:35:08|Mediatek U.S. Inc|elena.spinelli|customer
+2022-12-05 11:15:00|Belden Electronics GmbH / CIC|elena.spinelli|customer
+2022-12-13 11:08:53|Airspan_ATE|elena.spinelli|customer
+2022-12-13 15:59:58|Techship AB|elena.spinelli|customer
+2022-12-13 17:59:39|Studio Chamberlin|marouan.bc|customer
+2022-12-15 17:40:03|3 STARS LTD ŞTİ|elena.spinelli|customer
+2022-12-22 13:05:03|INTEGRA LTD|elena.spinelli|customer
+2022-12-26 15:15:25|RK Telesystem Private Limited|elena.spinelli|customer
+2023-01-02 15:04:46|free mobile|elena.spinelli|customer
+2023-01-03 15:23:47|VIAVI SOLUTIONS France|elena.spinelli|customer
+2023-01-04 12:06:07|EG Extensa sp. z o.o. sp. k.|elena.spinelli|customer
+2023-01-04 17:31:45|Dense Air Ltd|elena.spinelli|customer
+2023-01-10 10:47:07|University of Vale do Rio dos Sinos (UNISINOS)|elena.spinelli|customer
+2023-01-10 11:43:58|Loudmouth Security from Canada|marouan.bc|customer
+2023-01-12 10:28:52|UT APPLIED RESEARCH LABS|elena.spinelli|customer
+2023-01-13 11:14:42|Nexphone AG|elena.spinelli|customer
+2023-01-16 12:24:26|V CONCEPTS INTERNATIONAL LIMITED|elena.spinelli|customer
+2023-01-17 13:34:39|University of Florida|elena.spinelli|customer
+2023-01-18 15:54:00|Systemics-PAB Sp. z o.o.|elena.spinelli|customer
+2023-01-20 10:27:43|NATO Cooperative Cyber Defence Centre of Excellence|elena.spinelli|customer
+2023-01-20 16:01:18|Airwavz Solutions, Inc.|elena.spinelli|customer
+2023-01-20 17:51:23|Eaton|elena.spinelli|customer
+2023-01-23 10:25:34|CNH / Raven Industrial|elena.spinelli|customer
+2023-01-23 18:12:36|School of Systems and Enterprises|elena.spinelli|customer
+2023-01-27 09:57:42|BAE Systems|elena.spinelli|customer
+2023-01-27 16:21:14|Telenet NV|elena.spinelli|customer
+2023-01-30 10:08:14|Impinj Inc.|elena.spinelli|customer
+2023-01-30 12:51:28|Battelle Memorial Institute, Pacific Northwest Division (PNNL)|elena.spinelli|customer
+2023-01-31 13:08:33|MediaTek Bangalore Pvt Ltd|elena.spinelli|customer
+2023-01-31 16:46:15|Jabil US|kboutihane|customer
+2023-02-01 10:41:43|Webbing Solutions|elena.spinelli|customer
+2023-02-02 13:05:45|Lancaster University|elena.spinelli|customer
+2023-02-07 12:14:38|450connect GmbH|elena.spinelli|customer
+2023-02-08 16:49:39|Hochschule Bonn-Rhein-Sieg|elena.spinelli|customer
+2023-02-09 09:56:43|Loomanet Inc.|elena.spinelli|customer
+2023-02-13 10:17:35|Mikroelektronika spol. s r.o.|elena.spinelli|customer
+2023-02-13 10:30:24|CEER NATIONAL AUTOMOTIVE COMPANY|elena.spinelli|customer
+2023-02-13 11:43:19|Barcelona Supercomputing Center|elena.spinelli|customer
+2023-02-21 10:30:45|ORE Catapult|elena.spinelli|customer
+2023-02-22 09:29:13|GLOTECH GmbH II|marouan.bc|customer
+2023-02-22 10:55:37|PT. Idemia Labs Indonesa|elena.spinelli|customer
+2023-02-22 17:57:04|Tata Motors Limited|elena.spinelli|customer
+2023-02-23 10:58:19|Dolcera Corporation|elena.spinelli|customer
+2023-02-24 18:00:33|Itron Ireland|elena.spinelli|customer
+2023-03-07 12:02:55|Ketronixs Sdn Bhd|elena.spinelli|customer
+2023-03-07 14:57:20|Northeastern University|elena.spinelli|customer
+2023-03-07 15:45:23|United Cloud d.o.o. Beograd|elena.spinelli|customer
+2023-03-09 17:33:47|Technische Hochschule Ulm|elena.spinelli|customer
+2023-03-16 13:21:20|SATELIO IOT SERVICES SL|elena.spinelli|customer
+2023-03-17 11:10:23|Instituto Tecnológico de Informática|elena.spinelli|customer
+2023-03-20 10:23:59|NeoSoft AG|elena.spinelli|customer
+2023-03-20 15:04:22|University of Thessaly|elena.spinelli|customer
+2023-03-21 15:15:04|ADVA OPTICAL NETWORKING LTD|elena.spinelli|customer
+2023-03-23 17:01:52|VolkerWessels Telecom Netwerk Solutions B.V.|elena.spinelli|customer
+2023-03-28 11:58:47|Teledyne Controls, LLC.|elena.spinelli|customer
+2023-03-28 15:52:56|AT&T - ALPRGAED|elena.spinelli|customer
+2023-03-28 16:44:09|Bolton Link Pty Ltd|elena.spinelli|customer
+2023-03-30 13:33:41|UNIVERSITY OF ATHENS (or N.K.U.A.)|elena.spinelli|customer
+2023-04-03 17:19:23|Universidade Federal de Goiás (UFG)|elena.spinelli|customer
+2023-04-05 16:19:28|Namauu Technological and Industrial LLC|elena.spinelli|customer
+2023-04-05 16:37:22|Technische Universität Chemnitz|elena.spinelli|customer
+2023-04-06 12:18:11|Tawazun Industrial Park LLC|elena.spinelli|customer
+2023-04-11 16:06:46|Fundació Universitat Oberta de Catalunya|elena.spinelli|customer
+2023-04-12 09:57:34|COMPRION GmbH|elena.spinelli|customer
+2023-04-17 13:11:30|Hessisches Landeskriminalamt|elena.spinelli|customer
+2023-04-17 16:30:21|Integra Metering|elena.spinelli|customer
+2023-04-19 09:58:32|Texas A&M University|elena.spinelli|customer
+2023-04-19 11:06:39|Senapsis Ltd|elena.spinelli|customer
+2023-04-24 11:58:24|Eindhoven University of Technology|elena.spinelli|customer
+2023-04-27 10:23:49|Lablabee|marouan.bc|customer
+2023-04-28 17:22:26|Microamp Solutions Sp. z o.o.|elena.spinelli|customer
+2023-05-03 11:53:48|Telecom Paris (Rapid Space)|fvillanese|customer
+2023-05-03 11:57:48|Iron Systems (Rapid.Space)|fvillanese|customer
+2023-05-03 11:59:13|Mines Nancy (Rapid.Space)|fvillanese|customer
+2023-05-03 12:00:27|Deggendorf Institute of Technology (Rapid.Space)|fvillanese|customer
+2023-05-09 09:20:36|THALES DIS France SAS|marouan.bc|customer
+2023-05-15 15:12:16|Haventure|elena.spinelli|customer
+2023-05-22 10:21:19|TP PORTUGAL OPERATIONS, S.A.|elena.spinelli|customer
+2023-05-22 10:58:17|TALLINN UNIVERSITY OF TECHNOLOGY|elena.spinelli|customer
+2023-05-23 16:44:38|APLIQUEM MICROONES 21, S.L.|elena.spinelli|customer
+2023-05-25 09:56:56|ZELINKA d.o.o.|elena.spinelli|customer
+2023-05-26 10:40:05|Celestica (Thailand) Limited|elena.spinelli|customer
+2023-06-02 10:21:21|Starten Systems, Inc|elena.spinelli|customer
+2023-06-06 09:48:09|BBC Digital and Engineering|marouan.bc|customer
+2023-06-08 10:51:15|Bull Technologies|elena.spinelli|customer
+2023-06-12 10:37:25|Synapse Product Development|elena.spinelli|customer
+2023-06-14 15:21:39|Securitygen|elena.spinelli|customer
+2023-06-14 15:27:19|HMF Smart Solutions GmbH|elena.spinelli|customer
+2023-06-23 14:02:55|Telit Cinterion|marouan.bc|customer
+2023-06-27 11:19:17|Aviat Networks|elena.spinelli|customer
+2023-06-27 11:56:45|TTP plc|elena.spinelli|customer
+2023-06-28 10:54:27|Onomondo ApS|elena.spinelli|customer
+2023-06-29 10:27:08|Enextgen Wireless Limited|elena.spinelli|customer
+2023-06-30 10:46:09|Reailize, Inc.|elena.spinelli|customer
+2023-07-04 10:47:29|Elfaro Labs|elena.spinelli|customer
+2023-07-13 10:01:15|Cambridge Consultants Limited|elena.spinelli|customer
+2023-07-14 11:01:37|Defence Electronics Research Laboratory (DLRL) Hyderabad|elena.spinelli|customer
+2023-07-18 15:00:15|Hewlett-Packard France SAS|elena.spinelli|customer
+2023-07-19 12:11:37|Transportation Research Center|elena.spinelli|customer
+2023-07-25 10:15:14|RAD NEGEV|elena.spinelli|customer
+2023-07-28 18:28:44|Trinity Wireless Solutions, LLC|elena.spinelli|customer
+2023-08-02 15:36:35|M2 Solutions|elena.spinelli|customer
+2023-08-03 18:38:41|CTI|elena.spinelli|customer
+2023-08-08 20:16:50|Shared Access In Building Ltd|elena.spinelli|customer
+2023-08-18 13:15:35|MHE Electronics Pty Ltd|elena.spinelli|customer
+2023-08-23 17:14:06|Princeton University|elena.spinelli|customer
+2023-08-31 09:47:02|Tritium Pty Ltd|marouan.bc|customer
+2023-09-04 09:48:17|Qualcomm Beijing|nnikaein|customer
+2023-09-05 15:40:03|Taoglas IOT Solutions Limited|marouan.bc|customer
+2023-09-06 15:29:49|WWSI|kboutihane|customer
+2023-09-11 14:17:02|Radix Security GmbH|elena.spinelli|customer
+2023-09-11 15:26:30|HM Government Communications Centre|elena.spinelli|customer
+2023-09-13 11:43:38|David Horn Communications Limited|elena.spinelli|customer
+2023-09-14 11:15:47|Fundación IMDEA Networks|elena.spinelli|customer
+2023-09-15 13:24:31|Qualcomm Technologies International, Ltd. (UK)|nnikaein|customer
+2023-09-22 17:57:26|Teleplan Estonia OÜ, d.b.a Reconext|elena.spinelli|customer
+2023-09-26 16:42:51|Gdańsk  University|kboutihane|customer
+2023-09-29 10:17:09|ERF-E|elena.spinelli|customer
+2023-10-02 17:41:04|VANTIVA USA LLC|elena.spinelli|customer
+2023-10-05 15:53:28|Istituto di Informatica e Telematica del CNR|elena.spinelli|customer
+2023-10-05 15:58:39|RAI|elena.spinelli|customer
+2023-10-09 13:54:00|Ekinops Belgium NV|elena.spinelli|customer
+2023-10-12 18:40:20|System Innovation Group, LLC|elena.spinelli|customer
+2023-10-13 10:59:46|Template|marouan.bc|customer
+2023-10-19 12:22:24|FMV T&E Led|elena.spinelli|customer
+2023-10-20 10:37:30|Suneris Solution Production|marouan.bc|customer
+2023-10-23 15:14:53|THALES SIMULATION AND TRAINING SAS|elena.spinelli|customer
+2023-10-24 18:03:39|DPS INFORMATICA SNC|elena.spinelli|customer
+2023-10-24 18:17:28|Institute of Communication and Computer Systems|elena.spinelli|customer
+2023-10-25 11:08:14|CNR - ISTI|elena.spinelli|customer
+2023-10-26 12:49:58|Fraunhofer-Institut für Optronik, Systemtechnik und Bildauswertung IOSB|elena.spinelli|customer
+2023-10-30 11:34:26|SAMSUNG R&D INSTITUTE INDIA - BANGALORE PRIVATE LIMITED|elena.spinelli|customer
+2023-10-31 10:40:03|Amazon Web Services|elena.spinelli|customer
+2023-11-02 16:13:31|laserfabrik GmbH|elena.spinelli|customer
+2023-11-06 15:56:02|ARELIS SAS|elena.spinelli|customer
+2023-11-09 10:57:20|CEDIVA|elena.spinelli|customer
+2023-11-10 10:21:41|Septier Communication Ltd.|elena.spinelli|customer
+2023-11-13 11:51:18|Peretz Shekalim|elena.spinelli|customer
+2023-11-14 13:13:06|EMIN VIET NAM JOINT STOCK COMPANY|elena.spinelli|customer
+2023-11-15 10:58:00|Politechnika Wrocławska (PWR edu)|psansen|customer
+2023-11-15 11:25:20|Lio Edge YD|marouan.bc|customer
+2023-11-15 11:29:49|Lio Edge ST|marouan.bc|customer
+2023-11-16 16:07:31|AGH|psansen|customer
+2023-11-16 16:56:58|Enjoy-Digital|epuig|customer
+2023-11-20 17:33:34|RHEA SYSTEM SA|elena.spinelli|customer
+2023-11-21 16:57:58|Tesla US|elena.spinelli|customer
+2023-11-22 10:25:19|Myriota Pty Ltd|elena.spinelli|customer
+2023-11-23 14:52:50|Lio Edge Default|marouan.bc|customer
+2023-11-23 16:06:18|ESSE-TI SRL|elena.spinelli|customer
+2023-11-24 09:39:25|Instytut Łączności – Wrocław|psansen|customer
+2023-11-24 10:23:11|Neolync Telecommunication India Pvt Ltd|marouan.bc|customer
+2023-11-27 17:13:44|King Mongkut’s University of Technology North Bangkok|psansen|customer
+2023-11-28 10:59:36|VTT Technical Research Centre of Finland Ltd.|elena.spinelli|customer
+2023-11-29 14:24:58|Poznan Supercomputing and Networking Center (PCSS)|psansen|customer
+2023-11-30 09:21:33|Sierra Wireless Group|marouan.bc|customer
+2023-11-30 12:20:34|Politechnika Warszawska (PW)|psansen|customer
+2023-11-30 13:43:09|NEC Aspire Technology Ltd.|elena.spinelli|customer
+2023-12-01 15:04:49|Testforce|psansen|customer
+2023-12-06 19:10:26|NEUVATEK Inc.|marouan.bc|customer
+2023-12-08 12:53:41|THALES ITALIA S.p.A.|elena.spinelli|customer
+2023-12-08 15:05:29|Frequentis AG|elena.spinelli|customer
+2023-12-12 07:39:30|Latencetech|elena.spinelli|customer
+2023-12-13 14:33:49|Media Sp. Z o.o.|elena.spinelli|customer
+2023-12-15 15:11:25|Fortinet|elena.spinelli|customer
+2023-12-21 00:42:33|University of Texas at Austin Computer Science Department|elena.spinelli|customer
+2023-12-29 14:26:56|AIR tsinghua university |kboutihane|customer
+2024-01-04 10:15:10|Inventaire stock|nnikaein|customer
+2024-01-08 21:24:03|Industrial Scientific|elena.spinelli|customer
+2024-01-14 23:50:07|Collins Aerospace|elena.spinelli|customer
+2024-01-16 07:05:54|neptlus.ch SA|elena.spinelli|customer
+2024-01-16 09:28:23|M/s. Digilogic Systems Pvt. Ltd.|elena.spinelli|customer
+2024-01-17 10:02:02|Charter|marouan.bc|customer
+2024-02-01 12:26:18|Vulnerability Research Labs|elena.spinelli|customer
+2024-02-02 07:03:26|Shabodi Corp|elena.spinelli|customer
+2024-02-02 14:09:53|Compliance Engineering|elena.spinelli|customer
+2024-02-02 16:33:42|BlueOcean|psansen|customer
+2024-02-06 11:38:19|Obvios|psansen|customer
+2024-02-06 11:41:23|ALPS ALPINE EUROPE GmbH|elena.spinelli|customer
+2024-02-09 10:34:22|ORAXIO TELECOM SOLUTIONS|elena.spinelli|customer
+2024-02-12 16:05:58|Council for Scientific and Industrial Research (CSIR)|elena.spinelli|customer
+2024-02-19 10:58:46|United Micro Technology |kboutihane|customer
+2024-02-21 11:10:29|United Micro Technology GmbH|elena.spinelli|customer
+2024-02-21 18:45:46|Kinéis|elena.spinelli|customer
+2024-02-22 10:28:39|Eaton (CANADA)|elena.spinelli|customer
+2024-02-22 10:43:54|2B Technologies|elena.spinelli|customer
